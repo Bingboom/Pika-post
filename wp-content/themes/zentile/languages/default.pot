@@ -1,0 +1,297 @@
+# Copyright (C) 2020 denitcoder
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zentile 1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/zentile\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-23T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: zentile\n"
+
+#. Theme Name of the theme
+msgid "Zentile"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/denitcoder/wp-theme-zentile"
+msgstr ""
+
+#. Description of the theme
+msgid "Zentile is a light-weight magazine theme inspired by Yandex.Zen. Documentation: https://github.com/denitcoder/wp-theme-zentile#readme"
+msgstr ""
+
+#. Author of the theme
+msgid "denitcoder"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://github.com/denitcoder"
+msgstr ""
+
+#: 404.php:4
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:5
+msgid "The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
+msgstr ""
+
+#: comments.php:25
+msgid "Previous"
+msgstr ""
+
+#: comments.php:26
+msgid "Next"
+msgstr ""
+
+#: comments.php:29
+msgid "No comments yet"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: %s number of posts
+#: components/archive-header.php:24
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: components/password-form.php:5
+msgid "This content is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: components/password-form.php:6
+msgid "Password:"
+msgstr ""
+
+#: components/password-form.php:7
+msgctxt "post password form"
+msgid "Enter"
+msgstr ""
+
+#: components/post-list.php:14
+msgid "No posts yet"
+msgstr ""
+
+#: components/post.php:30
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: components/post.php:81
+msgid "Published by"
+msgstr ""
+
+#: components/related-posts.php:9
+msgid "Related posts"
+msgstr ""
+
+#: components/sidebar.php:6
+msgid "Close navigation menu"
+msgstr ""
+
+#: components/sidebar.php:13
+#: functions.php:96
+msgid "Primary Menu"
+msgstr ""
+
+#: footer.php:17
+msgid "Y"
+msgstr ""
+
+#: footer.php:23
+msgid "To the top"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:33
+msgid "Theme %1$s by %2$s"
+msgstr ""
+
+#: functions.php:119
+msgid "Left Sidebar (Primary)"
+msgstr ""
+
+#: functions.php:120
+msgid "Widgets in this area will be displayed in the left sidebar."
+msgstr ""
+
+#: functions.php:125
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:126
+msgid "Widgets in this area will be displayed in the right sidebar."
+msgstr ""
+
+#: functions.php:131
+msgid "Footer"
+msgstr ""
+
+#: functions.php:132
+msgid "Widgets in this area will be displayed in the footer."
+msgstr ""
+
+#: header.php:21
+msgid "Skip to the content"
+msgstr ""
+
+#: header.php:39
+msgid "Open navigation menu"
+msgstr ""
+
+#: inc/class-zentile-customize.php:16
+msgid "Theme Options"
+msgstr ""
+
+#: inc/class-zentile-customize.php:22
+msgid "Show author bio at the end of the post"
+msgstr ""
+
+#: inc/class-zentile-customize.php:23
+msgid "Show featured image at the top of the post"
+msgstr ""
+
+#: inc/class-zentile-customize.php:24
+msgid "Always show sidebar"
+msgstr ""
+
+#: inc/class-zentile-customize.php:25
+msgid "Show post navigation"
+msgstr ""
+
+#: inc/class-zentile-customize.php:26
+msgid "Show views in the post list"
+msgstr ""
+
+#: inc/class-zentile-customize.php:28
+msgid "Show related posts BEFORE comments"
+msgstr ""
+
+#: inc/class-zentile-customize.php:29
+msgid "Number of related posts BEFORE comments"
+msgstr ""
+
+#: inc/class-zentile-customize.php:31
+msgid "Show related posts AFTER comments"
+msgstr ""
+
+#: inc/class-zentile-customize.php:32
+msgid "Number of related posts AFTER comments"
+msgstr ""
+
+#: inc/class-zentile-walker-comment.php:27
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/class-zentile-walker-comment.php:43
+msgid "Edit"
+msgstr ""
+
+#. translators: %s mins/hours/days ago
+#: inc/utils.php:5
+msgid "%s ago"
+msgstr ""
+
+#: inc/utils.php:75
+msgid "%s min read"
+msgid_plural "%s mins read"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: Search results
+#: search.php:8
+msgid "Search"
+msgstr ""
+
+#. translators: %s: Number of search results
+#: search.php:11
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:6
+msgctxt "Placeholder"
+msgid "Search"
+msgstr ""
+
+#: widgets/class-zentile-widget-categories.php:5
+#: widgets/class-zentile-widget-categories.php:17
+msgid "Categories"
+msgstr ""
+
+#: widgets/class-zentile-widget-categories.php:8
+msgid "A list or dropdown of categories."
+msgstr ""
+
+#. translators: All categories
+#: widgets/class-zentile-widget-categories.php:39
+msgid "All"
+msgstr ""
+
+#: widgets/class-zentile-widget-categories.php:67
+#: widgets/class-zentile-widget-recent-comments.php:84
+#: widgets/class-zentile-widget-recent-posts.php:105
+msgid "Title"
+msgstr ""
+
+#: widgets/class-zentile-widget-categories.php:71
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/class-zentile-widget-categories.php:74
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/class-zentile-widget-recent-comments.php:5
+#: widgets/class-zentile-widget-recent-comments.php:17
+msgid "Recent Comments"
+msgstr ""
+
+#: widgets/class-zentile-widget-recent-comments.php:8
+msgid "Your site&#8217;s most recent comments."
+msgstr ""
+
+#: widgets/class-zentile-widget-recent-comments.php:87
+msgid "Number of comments to show"
+msgstr ""
+
+#: widgets/class-zentile-widget-recent-posts.php:5
+#: widgets/class-zentile-widget-recent-posts.php:20
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/class-zentile-widget-recent-posts.php:8
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: widgets/class-zentile-widget-recent-posts.php:58
+msgid "(no title)"
+msgstr ""
+
+#: widgets/class-zentile-widget-recent-posts.php:108
+msgid "Number of posts to show"
+msgstr ""
+
+#: widgets/class-zentile-widget-recent-posts.php:112
+msgid "Show post date"
+msgstr ""
+
+#: widgets/class-zentile-widget-recent-posts.php:115
+msgid "Show featured image"
+msgstr ""

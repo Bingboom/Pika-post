@@ -1,0 +1,113 @@
+# Translation of Plugins - Multipurpose Gutenberg Block - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Multipurpose Gutenberg Block - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-11 12:01:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Multipurpose Gutenberg Block - Stable (latest release)\n"
+
+#: includes/class-multipurpose-block-user-feedback.php:290
+msgid "No thanks / I already have"
+msgstr "不谢/我已经"
+
+#: includes/class-multipurpose-block-user-feedback.php:288
+msgid "Leave a Review"
+msgstr "留下一个评论"
+
+#. translators: 1. Name, 2. Time
+#: includes/class-multipurpose-block-user-feedback.php:282
+msgid "You have been using %1$s for %2$s now. Mind leaving a review to let us know know what you think? We'd really appreciate it!"
+msgstr "您现在已经对 %2$s 使用了 %1$s。介意留下评论让我们知道你的想法吗？我们会很感激的！"
+
+#. translators: 1. Name
+#: includes/class-multipurpose-block-user-feedback.php:279
+msgid "Are you enjoying %s Plugin?"
+msgstr "你喜欢 %s 插件吗？"
+
+#. translators: 1. Name
+#: includes/class-multipurpose-block-user-feedback.php:275
+msgid "%s WordPress Plugin"
+msgstr "%s WordPress 插件"
+
+#: includes/class-multipurpose-block-user-feedback.php:143
+msgid "a second"
+msgstr "A second"
+
+#. translators: Number of seconds
+#: includes/class-multipurpose-block-user-feedback.php:141
+msgid "%s seconds"
+msgstr "%s 秒"
+
+#: includes/class-multipurpose-block-user-feedback.php:134
+msgid "a minute"
+msgstr "一分钟"
+
+#. translators: Number of minutes
+#: includes/class-multipurpose-block-user-feedback.php:132
+msgid "%s minutes"
+msgstr "%s 分钟"
+
+#: includes/class-multipurpose-block-user-feedback.php:125
+msgid "an hour"
+msgstr "一小时"
+
+#. translators: Number of hours
+#: includes/class-multipurpose-block-user-feedback.php:123
+msgid "%s hours"
+msgstr "%s 小时"
+
+#: includes/class-multipurpose-block-user-feedback.php:116
+msgid "a day"
+msgstr "一天"
+
+#. translators: Number of days
+#: includes/class-multipurpose-block-user-feedback.php:114
+msgid "%s days"
+msgstr "%s 天"
+
+#: includes/class-multipurpose-block-user-feedback.php:107
+msgid "a week"
+msgstr "一周"
+
+#. translators: Number of weeks
+#: includes/class-multipurpose-block-user-feedback.php:105
+msgid "%s weeks"
+msgstr "%s 周"
+
+#: includes/class-multipurpose-block-user-feedback.php:98
+msgid "a year"
+msgstr "一年"
+
+#. translators: Number of years
+#: includes/class-multipurpose-block-user-feedback.php:96
+msgid "%s years"
+msgstr "%s 年"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/multipurpose-block/"
+msgstr "https://wordpress.org/plugins/multipurpose-block/"
+
+#. Author URI of the plugin
+msgid "http://thedotstore.com/"
+msgstr "http://thedotstore.com/"
+
+#. Author of the plugin
+msgid "theDotstore"
+msgstr "theDotstore"
+
+#. Plugin Name of the plugin
+msgid "Multipurpose Gutenberg Block"
+msgstr "多用途Gutenberg区块"
+
+#. Description of the plugin
+msgid "Single block containing multiple elements, It will enhance your website visibility and your needs. With this, you will change page layout (Fixed, Semi), set All Background Property (like  color, overlay, opacity, gradient style), set different Border, set height, width and set All Padding Property."
+msgstr "单块包含多个元素，它将增强您的网站可见性和您的需求。这样，您可以更改页面布局(固定、半)，设置所有背景属性(如颜色、覆盖、不透明度、渐变样式)，设置不同的边框，设置高度、宽度和设置所有填充属性。"
+
+#: includes/class-multipurpose-block-user-feedback.php:318
+msgid "Multipurpose Block"
+msgstr "多用途区块"

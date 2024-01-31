@@ -1,0 +1,31 @@
+body .tablepress td.column-1,
+body .tablepress th.column-1 {
+	width: 50px;
+}
+
+body .tablepress td.column-2,
+body .tablepress th.column-2 {
+	width: 255px;
+}
+
+body .tablepress th,
+body .tablepress td {
+	border: 1px solid #e8f0f5 !important;
+	border-width: 1px 0 1px 0 !important;
+}
+
+body .tablepress th {
+	color: #ffffff !important;
+}
+
+body .tablepress tr {
+	border: 1px solid #c1e9fe !important;
+}
+
+body .tablepress tr:nth-child(odd) {
+	background-color: rgba(246,250,252,0.45) !important;
+}
+
+body .tablepress tr:nth-child(even) {
+	background-color: rgba(255,247,247,0.48) !important;
+}

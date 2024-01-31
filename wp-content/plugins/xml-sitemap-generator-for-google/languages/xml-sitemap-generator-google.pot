@@ -1,0 +1,164 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Google XML Sitemaps Generator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-14 14:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: xml-sitemap-generator-for-google"
+
+#: includes/Dashboard.php:180
+msgid "Add New URL"
+msgstr ""
+
+#: includes/Dashboard.php:122
+msgid "Add Sitemap Output URLs to site \"robots.txt\" file"
+msgstr ""
+
+#: includes/Dashboard.php:150
+msgid "Additional URLs"
+msgstr ""
+
+#: includes/Dashboard.php:299
+msgid "Always"
+msgstr ""
+
+#: includes/Dashboard.php:126
+msgid "Automatically ping Google, Yahoo, Ask, Bing every day"
+msgstr ""
+
+#: includes/Dashboard.php:118
+msgid ""
+"Basic Settings for your Sitemaps. Enabling all below options is recommended."
+msgstr ""
+
+#: includes/Dashboard.php:192 includes/Dashboard.php:216
+msgid "Content"
+msgstr ""
+
+#: includes/Dashboard.php:212
+msgid "Custom Post Types"
+msgstr ""
+
+#: includes/Dashboard.php:305
+msgid "Daily"
+msgstr ""
+
+#: includes/Dashboard.php:258
+msgid "Exclude"
+msgstr ""
+
+#: includes/Dashboard.php:116
+msgid "General Settings"
+msgstr ""
+
+#: includes/Dashboard.php:107
+msgid "Google XML Sitemaps Generator Settings"
+msgstr ""
+
+#: includes/Dashboard.php:136
+msgid "Here you can see and customize all Sitemap Output URL."
+msgstr ""
+
+#: includes/Dashboard.php:152
+msgid ""
+"Here you can specify External URLs which should be included in your Sitemap."
+msgstr ""
+
+#: includes/Dashboard.php:302
+msgid "Hourly"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/xml-sitemap-generator-for-google/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpgrim.com/"
+msgstr ""
+
+#: includes/Dashboard.php:193 includes/Dashboard.php:217
+#: includes/Dashboard.php:257
+msgid "Include"
+msgstr ""
+
+#: includes/Dashboard.php:311
+msgid "Monthly"
+msgstr ""
+
+#: includes/Dashboard.php:317
+msgid "Never"
+msgstr ""
+
+#: includes/Dashboard.php:165
+msgid "No URLs added yet!"
+msgstr ""
+
+#: includes/Dashboard.php:134
+msgid "Output Sitemap URL"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Plugin to improve SEO with creating special XML Sitemap which helps search "
+"engines (Google, Yahoo, Yandex, etc.) to better index your website."
+msgstr ""
+
+#: includes/Dashboard.php:142
+msgid "Preview your sitemap:"
+msgstr ""
+
+#: includes/Dashboard.php:157 includes/Dashboard.php:194
+#: includes/Dashboard.php:218
+msgid "Priority"
+msgstr ""
+
+#: includes/Dashboard.php:333
+msgid "Settings"
+msgstr ""
+
+#: includes/Dashboard.php:186
+msgid "Sitemap Options"
+msgstr ""
+
+#: includes/Dashboard.php:138
+msgid "Sitemap URL:"
+msgstr ""
+
+#: includes/Dashboard.php:188
+msgid "This Options will be used for generating your Sitemap."
+msgstr ""
+
+#: includes/Dashboard.php:158 includes/Dashboard.php:195
+#: includes/Dashboard.php:219
+msgid "Update Frequency"
+msgstr ""
+
+#: includes/Dashboard.php:156
+msgid "URL to External Page"
+msgstr ""
+
+#: includes/Dashboard.php:308
+msgid "Weekly"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPGrim"
+msgstr ""
+
+#. Name of the plugin
+msgid "Google XML Sitemaps Generator"
+msgstr ""
+
+#: includes/Dashboard.php:314
+msgid "Yearly"
+msgstr ""

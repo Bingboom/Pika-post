@@ -1,0 +1,570 @@
+# Translation of Plugins - Getwid &#8211; Gutenberg Blocks - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Getwid &#8211; Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-12 08:43:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Getwid &#8211; Gutenberg Blocks - Stable (latest release)\n"
+
+#: includes/rest-api.php:214
+msgid "Please provide a valid URL."
+msgstr "请提供有效的URL。"
+
+#: includes/settings-page.php:239
+msgid "Default width of the content area in the Section block. Leave empty to use $content_width set in your theme. Set 0 to disable this option and control it via CSS."
+msgstr "区块中内容区域的默认宽度。留空使用主题中设置的$content_width。设置0禁用此选项，并通过CSS控制它。"
+
+#: includes/blocks/content-slider.php:52 assets/js/editor.blocks.js:23
+msgid "Content Slider"
+msgstr "内容幻灯片"
+
+#: includes/settings-page.php:268
+msgid "Refresh Access Token"
+msgstr "刷新访问令牌"
+
+#: includes/settings-page.php:190
+msgid "Instagram Cache Timeout"
+msgstr "Instagram 缓存超时"
+
+#: includes/settings-page.php:281
+msgid "Time until expiration of media data in minutes. Setting to 0 means no expiration."
+msgstr "直到媒体数据到期的时间(以分钟为单位)。设置为0意味着不过期。"
+
+#: includes/blocks/table.php:22 assets/js/editor.blocks.js:23
+msgid "Table"
+msgstr "表格"
+
+#: includes/blocks/anchor.php:20 assets/js/editor.blocks.js:23
+msgid "Anchor"
+msgstr "锚点"
+
+#: includes/blocks/table-of-contents.php:31 assets/js/editor.blocks.js:23
+msgid "Table of Contents"
+msgstr "内容表格"
+
+#: includes/getwid.php:224
+msgid "Write a Review"
+msgstr "发表评论"
+
+#: includes/getwid.php:222
+msgid "Support"
+msgstr "支持"
+
+#: includes/settings-page.php:334
+msgid "Deselect All"
+msgstr "取消全选"
+
+#: includes/settings-page.php:332
+msgid "Select All"
+msgstr "全选"
+
+#: includes/settings-page.php:220
+msgid "Disable Getwid Blocks"
+msgstr "禁用 Getwid 块"
+
+#. translators: %1$s, %2$s is a number of total and disabled blocks
+#: includes/settings-page.php:327
+msgid "Total: %1$s, Disabled: %2$s"
+msgstr "总数: %1$s, 禁用: %2$s"
+
+#: includes/settings-page.php:170 assets/js/editor.blocks.js:23
+msgid "Animation"
+msgstr "动画"
+
+#: includes/settings-page.php:23 assets/js/editor.blocks.js:6
+msgid "General"
+msgstr "常规"
+
+#: includes/blocks/template-library.php:19 assets/js/editor.blocks.js:23
+msgid "Template Library"
+msgstr "模板库"
+
+#: includes/blocks/mailchimp.php:318
+msgid "Email is required."
+msgstr "电子邮件是必需的。"
+
+#: includes/blocks/mailchimp.php:322
+msgid "An invalid Mailchimp list was provided."
+msgstr "提供了无效的 Mailchimp 列表。"
+
+#: includes/blocks/countdown.php:163 assets/js/editor.blocks.js:23
+msgid "Countdown"
+msgstr "倒计时"
+
+#: includes/blocks/mailchimp.php:26 assets/js/editor.blocks.js:23
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: includes/blocks/mailchimp.php:378
+msgid "Thank you for joining our mailing list."
+msgstr "感谢您加入我们的邮件列表。"
+
+#: includes/blocks/countdown.php:342
+msgid "Invalid date."
+msgstr "无效日期。"
+
+#: includes/templates/mailchimp/mailchimp.php:27
+msgid "Subscribe"
+msgstr "订阅"
+
+#. Plugin URI of the plugin
+msgid "https://motopress.com/products/getwid/"
+msgstr "https://motopress.com/products/getwid/"
+
+#: includes/blocks/content-timeline.php:23 assets/js/editor.blocks.js:23
+msgid "Content Timeline"
+msgstr "内容时间线"
+
+#: includes/blocks/image-hotspot.php:83 assets/js/editor.blocks.js:23
+msgid "Image Hotspot"
+msgstr "图片热点"
+
+#: includes/blocks/video-popup.php:43 assets/js/editor.blocks.js:23
+msgid "Video Popup"
+msgstr "视频弹出"
+
+#: includes/blocks/mailchimp.php:179
+#: includes/templates/mailchimp/field-last-name.php:8
+#: assets/js/editor.blocks.js:23
+msgid "Last name"
+msgstr "姓氏"
+
+#: includes/blocks/mailchimp.php:165
+#: includes/templates/mailchimp/field-first-name.php:8
+#: assets/js/editor.blocks.js:23
+msgid "First name"
+msgstr "名字"
+
+#: includes/settings-page.php:214 assets/js/editor.blocks.js:23
+msgid "Mailchimp API Key"
+msgstr "MailChimp API 密钥"
+
+#: includes/blocks/price-list.php:23 assets/js/editor.blocks.js:23
+msgid "Price List"
+msgstr "价格列表"
+
+#: includes/blocks/contact-form.php:22 assets/js/editor.blocks.js:23
+msgid "Contact Form"
+msgstr "联系表单"
+
+#: includes/post-template-part.php:24 assets/js/editor.blocks.js:6
+msgid "Post Template"
+msgstr "文章模板"
+
+#: includes/blocks/custom-post-type.php:285
+msgctxt "Next post"
+msgid ">"
+msgstr ">"
+
+#: includes/blocks/custom-post-type.php:284
+msgctxt "Previous post"
+msgid "<"
+msgstr "<"
+
+#: includes/blocks/custom-post-type.php:264
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: includes/rest-api.php:109
+msgid "Post Type"
+msgstr "文章类型"
+
+#: includes/post-template-part.php:31
+msgid "Search Templates"
+msgstr "搜索模板"
+
+#: includes/post-template-part.php:30
+msgid "View Template"
+msgstr "查看模板"
+
+#: includes/post-template-part.php:28
+msgid "Edit Template"
+msgstr "编辑模板"
+
+#: includes/rest-api.php:155
+msgid "Templates"
+msgstr "模板"
+
+#: includes/blocks/contact-form.php:325
+msgid "The response parameter is invalid or malformed."
+msgstr "响应参数无效或格式不正确。"
+
+#: includes/blocks/contact-form.php:301
+msgid "The request is invalid or malformed."
+msgstr "请求无效或格式不正确。"
+
+#: includes/templates/contact-form/field-textarea.php:8
+#: assets/js/editor.blocks.js:23
+msgid "Message"
+msgstr "消息"
+
+#: includes/templates/contact-form/contact-form.php:25
+msgid "Submit"
+msgstr "提交"
+
+#: includes/settings-page.php:208 assets/js/editor.blocks.js:23
+msgid "Recaptcha Secret Key"
+msgstr "Recaptcha 密钥"
+
+#: includes/blocks/contact-form.php:313
+msgid "Please check the captcha."
+msgstr "请检查验证码。"
+
+#: includes/blocks/custom-post-type.php:121 assets/js/editor.blocks.js:23
+msgid "Custom Post Type"
+msgstr "自定义文章类型"
+
+#: includes/rest-api.php:132
+msgid "Taxonomy"
+msgstr "分类"
+
+#: includes/blocks/post-slider.php:173 assets/js/editor.blocks.js:23
+msgid "Post Slider"
+msgstr "文章幻灯片"
+
+#: includes/blocks/post-carousel.php:185 assets/js/editor.blocks.js:23
+msgid "Post Carousel"
+msgstr "文章轮播"
+
+#: includes/blocks/template-parts/post-button.php:35
+#: includes/blocks/template-parts/post-link.php:29
+#: assets/js/editor.blocks.js:23
+msgid "Read More"
+msgstr "继续阅读"
+
+#: includes/block-actions.php:8
+msgid "Nothing found."
+msgstr "啥都没有。"
+
+#: includes/settings-page.php:202 assets/js/editor.blocks.js:23
+msgid "Recaptcha Site Key"
+msgstr "Recaptcha 网站密钥"
+
+#: includes/rest-api.php:77
+msgid "Forbidden."
+msgstr "被禁止。"
+
+#: includes/post-template-part.php:33
+msgid "No templates found in Trash"
+msgstr "回收站没有发现模板"
+
+#: includes/post-template-part.php:32
+msgid "No templates found"
+msgstr "没有找到模板"
+
+#: includes/post-template-part.php:27
+msgid "Add New Template"
+msgstr "添加新模板"
+
+#: includes/post-template-part.php:26 includes/post-template-part.php:29
+msgid "New Template"
+msgstr "新建模板"
+
+#: includes/blocks/contact-form.php:331
+msgid "The response is no longer valid: either is too old or has been used previously."
+msgstr "响应不再有效: 要么太旧, 要么以前使用过。"
+
+#: includes/blocks/contact-form.php:319
+msgid "The secret parameter is invalid or malformed."
+msgstr "secret 参数无效或格式不正确。"
+
+#: includes/blocks/contact-form.php:307
+msgid "The secret parameter is missing."
+msgstr "secret 参数丢失了。"
+
+#: includes/blocks/contact-form.php:266
+msgid "There was an error trying to send your message. Please try again later."
+msgstr "试图发送您的消息时出现了错误。请稍后再试。"
+
+#: includes/blocks/contact-form.php:259
+msgid "Thank you for your message. It has been sent."
+msgstr "谢谢你的留言。已经寄出了。"
+
+#. translators: %s is a blogname
+#: includes/blocks/contact-form.php:238
+msgid "This e-mail was sent from a contact form on %s"
+msgstr "此电子邮件是从%s上的一个联系表单发送的"
+
+#: includes/templates/contact-form/field-email.php:8
+#: includes/templates/mailchimp/field-email.php:8 assets/js/editor.blocks.js:23
+msgid "Email address"
+msgstr "电邮地址"
+
+#: includes/blocks-manager.php:49 includes/blocks-manager.php:92
+msgid "Getwid Post Blocks"
+msgstr "Getwid 文章块"
+
+#: includes/blocks/counter.php:44 assets/js/editor.blocks.js:23
+msgid "Counter"
+msgstr "计数器"
+
+#: includes/blocks/progress-bar.php:31 assets/js/editor.blocks.js:23
+msgid "Progress Bar"
+msgstr "进度条"
+
+#: includes/blocks/instagram.php:52 assets/js/editor.blocks.js:23
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/settings-page.php:184
+msgid "Instagram Access Token"
+msgstr "Instagram 访问令牌"
+
+#: includes/blocks/price-box.php:23 assets/js/editor.blocks.js:23
+msgid "Price Box"
+msgstr "价格盒子"
+
+#: includes/blocks/circle-progress-bar.php:31 assets/js/editor.blocks.js:23
+msgid "Circular Progress Bar"
+msgstr "圆形进度条"
+
+#: includes/blocks/instagram.php:152 includes/instagram-token-manager.php:84
+#: includes/rest-api.php:201 includes/rest-api.php:231
+msgid "Error in json_decode."
+msgstr "在 json_decode 错误。"
+
+#. translators: %s is a link
+#: includes/blocks/instagram.php:107
+msgid "Instagram Access Token is not set. <a href=\"%s\">Connect Instagram Account</a>."
+msgstr "未设置 Instagram 访问令牌。<a href=\"%s\">连接Instagram账号</a>。"
+
+#: includes/settings-page.php:262 assets/js/editor.blocks.js:23
+msgid "Connect Instagram Account"
+msgstr "连接 Instagram 帐户"
+
+#: includes/settings-page.php:114
+msgid "Instagram: access denied."
+msgstr "Instagram: 拒绝访问。"
+
+#: includes/settings-page.php:106
+msgid "Instagram: access token updated."
+msgstr "Instagram: 访问令牌更新。"
+
+#: includes/blocks/button-group.php:23 assets/js/editor.blocks.js:23
+msgid "Button Group"
+msgstr "按钮组"
+
+#: includes/blocks/social-links.php:27 assets/js/editor.blocks.js:23
+msgid "Social Links"
+msgstr "社交链接"
+
+#: includes/blocks/image-box.php:35 assets/js/editor.blocks.js:23
+msgid "Image Box"
+msgstr "图像框"
+
+#: includes/blocks/advanced-heading.php:22 assets/js/editor.blocks.js:23
+msgid "Advanced Heading"
+msgstr "高级标题"
+
+#: includes/blocks/google-map.php:47 assets/js/editor.blocks.js:23
+msgid "Google Maps"
+msgstr "谷歌地图"
+
+#: includes/blocks/toggle.php:28 assets/js/editor.blocks.js:23
+msgid "Toggle"
+msgstr "切换"
+
+#: includes/blocks/tabs.php:27 assets/js/editor.blocks.js:23
+msgid "Tabs"
+msgstr "选项卡"
+
+#: includes/blocks/icon.php:35 assets/js/editor.blocks.js:23
+msgid "Icon"
+msgstr "图标"
+
+#: includes/getwid.php:241 assets/js/editor.blocks.js:6
+#: assets/js/editor.blocks.js:23
+msgid "Settings"
+msgstr "设置"
+
+#: includes/blocks/advanced-spacer.php:23 assets/js/editor.blocks.js:23
+msgid "Advanced Spacer"
+msgstr "高级间隔器"
+
+#: includes/templates/contact-form/field-name.php:8
+#: assets/js/editor.blocks.js:23
+msgid "Name"
+msgstr "名称"
+
+#: includes/blocks/person.php:23 assets/js/editor.blocks.js:23
+msgid "Person"
+msgstr "人物"
+
+#: includes/blocks/testimonial.php:23 assets/js/editor.blocks.js:23
+msgid "Testimonial"
+msgstr "推荐信"
+
+#: includes/blocks/recent-posts.php:94 assets/js/editor.blocks.js:23
+msgid "Recent Posts"
+msgstr "最近文章"
+
+#: includes/blocks/images-stack.php:23 assets/js/editor.blocks.js:23
+msgid "Image Stack Gallery"
+msgstr "图像栈画廊"
+
+#: includes/blocks/accordion.php:28 assets/js/editor.blocks.js:23
+msgid "Accordion"
+msgstr "可折叠"
+
+#: includes/blocks/banner.php:22 assets/js/editor.blocks.js:23
+msgid "Banner"
+msgstr "广告图片"
+
+#: includes/blocks/icon-box.php:34 assets/js/editor.blocks.js:23
+msgid "Icon Box"
+msgstr "图标盒子"
+
+#: includes/blocks/images-slider.php:52 assets/js/editor.blocks.js:23
+msgid "Image Slider"
+msgstr "图像幻灯片"
+
+#: includes/blocks/media-text-slider.php:59 assets/js/editor.blocks.js:23
+msgid "Media & Text Slider"
+msgstr "媒体和文本滑块"
+
+#: includes/blocks/section.php:75 assets/js/editor.blocks.js:6
+#: assets/js/editor.blocks.js:23
+msgid "Section"
+msgstr "章节"
+
+#. Plugin Name of the plugin
+msgid "Getwid"
+msgstr "Getwid"
+
+#. Author of the plugin
+msgid "MotoPress"
+msgstr "MotoPress"
+
+#. Author URI of the plugin
+msgid "https://motopress.com/"
+msgstr "https://motopress.com/"
+
+#: includes/templates/recent-posts/post.php:92
+#: includes/templates/template-parts/post-comments.php:27
+msgid "No comments"
+msgstr "没有评论"
+
+#: includes/settings-page.php:196 assets/js/editor.blocks.js:23
+msgid "Google Maps API Key"
+msgstr "谷歌地图 API 密钥"
+
+#: includes/blocks-manager.php:37 includes/blocks-manager.php:80
+msgid "Getwid Blocks"
+msgstr "Getwid 块"
+
+#: includes/scripts-manager.php:70
+msgid "Full Size"
+msgstr "实际大小"
+
+#: includes/settings-page.php:238
+msgctxt "pixels"
+msgid "px"
+msgstr "px"
+
+#: includes/settings-page.php:164
+msgid "Section Content Width"
+msgstr "章节内容宽度"
+
+#. translators: %d is a comments count
+#: includes/templates/recent-posts/post.php:90
+#: includes/templates/template-parts/post-comments.php:25
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] "%d 评论"
+
+#. Description of the plugin
+msgid "Extra Gutenberg blocks for building seamless and aesthetic websites in the WordPress block editor."
+msgstr "用于在 WordPress 区块编辑器中构建无缝和美观网站的额外古腾堡(Gutenberg)区块。"
+
+#: includes/settings-page.php:410
+msgid "These settings may break some blocks in posts loaded via Ajax. These settings may not work together with optimization plugins."
+msgstr "这些设置可能会破坏通过Ajax加载的文章中的一些区块，并且可能无法与优化插件一起使用。"
+
+#: includes/settings-page.php:406
+msgid "If this option is on, all CSS files of blocks will be moved to header for better theme compatibility. If your theme has custom styling for Getwid blocks, its styles will be applied first."
+msgstr "如果启用此选项，所有块的CSS文件都将移动到head中，以提高主题兼容性。如果您的主题包含Getwid区块的自定义样式，则将首先应用其样式。"
+
+#: includes/settings-page.php:403
+msgid "Aggregate all CSS files of blocks in header"
+msgstr "聚合所有区块CSS到head中"
+
+#: includes/settings-page.php:397
+msgid "If this option is on, all CSS and JS files of blocks will be loaded on demand in footer. This will reduce the amount of heavy assets on the page."
+msgstr "如果勾选这个选项，区块的所有 CSS 和 JS 文件将在页脚中按需加载。这将减少页面上重资产的数量。"
+
+#: includes/settings-page.php:394
+msgid "Load CSS and JS of blocks on demand"
+msgstr "按需加载区块的CSS和JS"
+
+#: includes/settings-page.php:380
+msgid "Hides block until the entrance animation starts. Prevents possible occurrence of horizontal scroll during the animation."
+msgstr "隐藏区块，直到进入动画开始。防止在动画期间可能出现水平滚动。"
+
+#: includes/settings-page.php:377
+msgid "Enable smooth animation of blocks"
+msgstr "启用区块的平滑动画"
+
+#: includes/settings-page.php:366
+msgid "Manage Post Templates"
+msgstr "管理文章模板"
+
+#: includes/settings-page.php:365
+msgid "Post Templates are used for presenting posts in a certain format and style. You can change how a post looks by choosing a post template in the Custom Post Type and related blocks."
+msgstr "文章模板用于以某种格式和风格展示文章。您可以通过在自定义文章类型和相关区块中选择文章模板来更改文章外观。"
+
+#: includes/settings-page.php:176
+msgid "Performance Optimization"
+msgstr "性能优化"
+
+#: includes/settings-page.php:93
+msgid "Save Changes"
+msgstr "保存修改"
+
+#: includes/settings-page.php:34
+msgctxt "Settings page title(in menu)"
+msgid "Getwid"
+msgstr "Getwid"
+
+#: includes/settings-page.php:33
+msgctxt "Settings page title"
+msgid "Getwid Settings"
+msgstr "Getwid设置"
+
+#: includes/settings-page.php:25
+msgid "Blocks"
+msgstr "区块"
+
+#: includes/settings-page.php:24
+msgid "Appearance"
+msgstr "外观"
+
+#: includes/post-template-part.php:25 assets/js/editor.blocks.js:23
+msgid "Getwid Post Templates"
+msgstr "Getwid文章模板"
+
+#: includes/post-template-part.php:23 includes/settings-page.php:26
+msgid "Post Templates"
+msgstr "文章模板"
+
+#. translators: %s is an error message
+#: includes/instagram-token-manager.php:100
+msgid "An error occurred while updating Instagram access token: %s"
+msgstr "更新Instagram访问令牌时出错：%s"
+
+#: includes/blocks/mailchimp.php:142
+msgid "Select at least one MailChimp list."
+msgstr "至少选择一个MailChimp列表。"
+
+#. translators: %1$s is a block name, %2$s is a link
+#: includes/blocks/abstract-block.php:75 assets/js/editor.blocks.js:6
+msgid "%1$s block is disabled in plugin settings. <a href=\"%2$s\">Manage Blocks</a>"
+msgstr "在插件设置中禁用%1$s区块。<a href=\"%2$s\">管理区块</a>"
+
+#: includes/blocks-manager.php:62 includes/blocks-manager.php:105
+msgid "Getwid ACF Blocks"
+msgstr "Getwid ACF区块"

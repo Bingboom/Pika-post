@@ -1,0 +1,36 @@
+body {
+    --content-width: 930px;
+    --content-single-width: 800px;
+    --sidebar-width: 250px;
+    --layout-gap: 40px;
+    --site-padding: 20px;
+    --site-background: #fff;
+
+    --container-2col-width: calc(var(--site-padding) * 2 + var(--layout-gap) + var(--sidebar-width) + var(--content-width));
+    --container-3col-width: calc(var(--site-padding) * 2 + var(--layout-gap) * 2 + var(--sidebar-width) * 2 + var(--content-width));
+
+    --font-family: 'Open Sans', sans-serif;
+    --font-size: 15px;
+
+    --active-bg-color: #222;
+    --active-fg-color: #fff;
+
+    --dark-link: #000;
+    --dark-link-hover: #f00;
+
+    --focus-width: 3px;
+    --focus-color: #fc0;
+
+    --secondary-color: #aaa;
+}
+
+@custom-media --viewport-4 (width < 480px);
+@custom-media --viewport-5 (width < 550px);
+@custom-media --viewport-6 (width < 650px);
+@custom-media --viewport-7 (width < 768px);
+@custom-media --viewport-8 (width < 850px);
+@custom-media --viewport-9 (width < 992px);
+@custom-media --viewport-12 (width < 1200px);
+@custom-media --viewport-13 (width < 1366px);
+@custom-media --viewport-14 (width < 1400px);
+@custom-media --viewport-16 (width < 1600px);

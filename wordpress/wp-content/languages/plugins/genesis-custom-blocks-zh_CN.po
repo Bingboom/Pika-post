@@ -1,0 +1,623 @@
+# Translation of Plugins - Genesis Custom Blocks - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Genesis Custom Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-31 07:10:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Genesis Custom Blocks - Stable (latest release)\n"
+
+#. translators: Admin screen title. %s: Admin screen name.
+#: php/Views/EditorHeader.php:19
+msgid "%s &#8212; WordPress"
+msgstr "%s &#8212; WordPress"
+
+#: php/Admin/EditBlock.php:233
+msgid "Please pass a block name"
+msgstr "请通过一个区块名称"
+
+#: php/Admin/EditBlock.php:215
+msgid "Block name"
+msgstr "区块名称"
+
+#: php/Admin/EditBlock.php:126
+msgid "Block title"
+msgstr "区块标题"
+
+#. translators: %s: the function name
+#: php/Util.php:150
+msgid "Genesis Custom Blocks's %s"
+msgstr "Genesis 自定义区块的 %s"
+
+#: php/PostTypes/BlockPost.php:320
+msgid "Keywords"
+msgstr "关键词"
+
+#: php/PostTypes/BlockPost.php:319
+msgid "Category"
+msgstr "分类"
+
+#: php/PostTypes/BlockPost.php:300
+msgid "Template:"
+msgstr "模板"
+
+#: php/PostTypes/BlockPost.php:318
+msgid "Template"
+msgstr "模板"
+
+#: php/PostTypes/BlockPost.php:186
+msgid "No blocks found in Trash."
+msgstr "没有在垃圾桶中看到区块"
+
+#: php/PostTypes/BlockPost.php:185
+msgid "No blocks found."
+msgstr "没有找到区块"
+
+#: php/PostTypes/BlockPost.php:184
+msgid "Parent Blocks:"
+msgstr "父区块"
+
+#: php/PostTypes/BlockPost.php:183
+msgid "Search Blocks"
+msgstr "搜索区块"
+
+#: php/PostTypes/BlockPost.php:182
+msgid "All Blocks"
+msgstr "所有区块"
+
+#: php/PostTypes/BlockPost.php:181
+msgid "View Block"
+msgstr "查看区块"
+
+#: php/Blocks/Controls/Radio.php:31
+msgid "Radio"
+msgstr "无线广播"
+
+#: php/Blocks/Controls/Checkbox.php:38
+msgid "Checkbox"
+msgstr "检查框"
+
+#: php/Blocks/Controls/Textarea.php:79
+msgid "New Lines"
+msgstr "新行数"
+
+#: php/Blocks/Controls/Textarea.php:71
+msgid "Number of Rows"
+msgstr "列的数量"
+
+#: php/Blocks/Controls/Textarea.php:38
+msgid "Textarea"
+msgstr "文字区域"
+
+#: php/Blocks/Controls/Image.php:38
+msgid "Image"
+msgstr "图像"
+
+#: php/Blocks/Controls/Range.php:69
+msgid "Step Size"
+msgstr "步骤尺寸"
+
+#: php/Blocks/Controls/Range.php:61
+msgid "Maximum Value"
+msgstr "最小化值"
+
+#: php/Blocks/Controls/Range.php:53
+msgid "Minimum Value"
+msgstr "最小化值"
+
+#: php/Blocks/Controls/Range.php:38
+msgid "Range"
+msgstr "范围"
+
+#: php/Blocks/Controls/Text.php:31
+msgid "Text"
+msgstr "文字"
+
+#: php/Blocks/Controls/Color.php:31
+msgid "Color"
+msgstr "颜色"
+
+#: php/Views/Upgrade.php:134
+msgid "24/7 Support"
+msgstr "24/7 支持"
+
+#: php/Views/Upgrade.php:133
+msgid "StudioPress Themes"
+msgstr "StudioPress 主题"
+
+#: php/Views/Upgrade.php:132
+msgid "Genesis Framework"
+msgstr "Genesis 框架"
+
+#: php/Views/Upgrade.php:129
+msgid "Everything in free!!!"
+msgstr "所有东西都免费！"
+
+#: php/Views/Upgrade.php:124 php/Views/Upgrade.php:136
+msgid "Learn more"
+msgstr "学习更多"
+
+#: php/Views/Upgrade.php:121
+msgid "Genesis Blocks"
+msgstr "Genesis 区块"
+
+#: php/Views/Upgrade.php:130
+msgid "Advanced Features for Genesis Blocks"
+msgstr "用于Genesis 区块的高级功能"
+
+#: php/Views/Upgrade.php:131
+msgid "Advanced Features for Genesis Custom Blocks"
+msgstr "用于Genesis 自定义区块的高级功能"
+
+#: php/Views/Upgrade.php:119
+msgid "Free"
+msgstr "免费"
+
+#: php/Views/Upgrade.php:115
+msgid "Genesis is more than just custom blocks. With Genesis Pro you get access to the entire suite of products and all their advanced feature-sets."
+msgstr "Genesis 不能仅仅是自定义区块，通过Genesis Pro 你会获得整个产品以及他们所有的高级功能"
+
+#: php/Views/Upgrade.php:114
+msgid "Do even more with Genesis"
+msgstr "通过Genesis做更多"
+
+#: php/Views/Upgrade.php:110
+msgid "A Genesis Pro subscription gives you access to the incredible support teams that have been the Customer Experience foundation of WP Engine and StudioPress. You will be able to build with confidence knowing that you have extensive documentation and 24/7 support available."
+msgstr "一个Genesis 专业版的订阅可以让你访问售后团队，以及WP Engine 和 StudioPress 的客户体验基础。您将能够充满信心地建立，了解您拥有广泛的文档和全天候提供全天候可用。"
+
+#: php/Views/Upgrade.php:105
+msgid "Export and import on a per-block basis and share your custom blocks between sites and projects."
+msgstr "在每一个区块区块中导入以及导出并且分享你的自定义区块在不同的站点和项目之间。"
+
+#: php/Views/Upgrade.php:104
+msgid "Block Export & Import"
+msgstr "区块导出 & 导入"
+
+#: php/Views/Upgrade.php:101
+msgid "+ more coming soon…"
+msgstr "+更多即将开始..."
+
+#: php/Views/Upgrade.php:98
+msgid "Classic Text field"
+msgstr "经典文字字段"
+
+#: php/Views/Upgrade.php:86
+msgid "Rich Text field"
+msgstr "富文本字段"
+
+#: php/Views/Upgrade.php:74
+msgid "User field"
+msgstr "用户字段"
+
+#: php/Views/Upgrade.php:62
+msgid "Taxonomy field"
+msgstr "分类法字段"
+
+#: php/Views/Upgrade.php:50
+msgid "Post field"
+msgstr "文章字段"
+
+#: php/Views/Upgrade.php:38
+msgid "Repeater field"
+msgstr "重复化字段"
+
+#: php/Views/Upgrade.php:26
+msgid "Access additional fields for your custom blocks with Genesis Pro."
+msgstr "使用Genesis Pro访问自定义块的其他字段。"
+
+#: php/Admin/Import.php:130
+msgid "Choose a JSON (.json) file to upload, then click Upload file and import."
+msgstr "选在一个JSON (.json) 文件去上传，然后点击上传文件以及导入."
+
+#: php/Admin/Import.php:129
+msgid "Welcome! This importer processes Genesis Custom Blocks JSON files, adding custom blocks to this site."
+msgstr "欢迎！此导入程序进入Genesis自定义块JSON文件，将自定义块添加到此站点。"
+
+#: php/Admin/Import.php:120
+msgid "Import Genesis Custom Blocks"
+msgstr "导入Genesis 自定义区块"
+
+#: php/Admin/Import.php:68
+msgid "Upload base directory not set."
+msgstr "上传基目录没有设置。"
+
+#: php/Admin/Import.php:67 php/Admin/Import.php:247 php/Admin/Import.php:253
+msgid "Sorry, there was an error uploading the file."
+msgstr "对不起，这里有一个文件上传错误"
+
+#: php/Admin/Import.php:40
+msgid "Import custom blocks created with Genesis Custom Blocks."
+msgstr "导入使用Genesis Custom Blocks创建的自定义区块块。"
+
+#: php/Admin/Documentation.php:39
+msgid "Documentation"
+msgstr "文档"
+
+#: php/Admin/Onboarding.php:428
+msgid "The destination URL"
+msgstr "目标URL"
+
+#: php/Admin/Onboarding.php:423
+msgid "Button Link"
+msgstr "按钮链接"
+
+#: php/Admin/Onboarding.php:416
+msgid "A Call-to-Action"
+msgstr "一个Call-to-Action"
+
+#: php/Admin/Onboarding.php:411
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: php/Admin/Onboarding.php:398
+msgid "Description"
+msgstr "描述"
+
+#: php/Admin/Onboarding.php:391
+msgid "The primary display text"
+msgstr "主显示文本"
+
+#: php/Admin/Onboarding.php:386
+msgid "Title"
+msgstr "标题"
+
+#. translators: A keyword, used for search.
+#: php/Admin/Onboarding.php:381
+msgid "template"
+msgstr "模板"
+
+#: php/Admin/Onboarding.php:244
+msgid "Fields let you define the options you see when adding your block to a post or page."
+msgstr "字段允许您定义将块添加到帖子或页面时看到的选项。"
+
+#: php/Admin/Onboarding.php:243
+msgid "Try adding a field."
+msgstr "尝试添加一个字段"
+
+#: php/Admin/Onboarding.php:243
+msgid "Eyeglass emoji"
+msgstr "Eyeglass emoji"
+
+#: php/Admin/Onboarding.php:220 php/Admin/Onboarding.php:298
+msgid "Get Started"
+msgstr "开始"
+
+#: php/Admin/Onboarding.php:216 php/Admin/Onboarding.php:248
+#: php/Admin/Onboarding.php:294
+msgid "Learn more:"
+msgstr "学习更多"
+
+#. translators: Placeholders are <strong> and <a> html tags.
+#: php/Admin/Onboarding.php:205
+msgid "You can %1$sEdit%2$s the block to learn more, or just %3$sTrash%4$s it to dismiss this message."
+msgstr "你可以  %1$sEdit%2$s 区块去学习更多, 或者仅仅 %3$s删除%4$s 并且关闭这条消息。"
+
+#. translators: Placeholders are <strong> html tags.
+#: php/Admin/Onboarding.php:193
+msgid "We created this %1$sExample Block%2$s to show you just how easy it is to get started."
+msgstr "我们创建了这个 %1$s 示例区块％2 $s，以轻松的显示开始。"
+
+#: php/Admin/Onboarding.php:187
+msgid "Ready to begin?"
+msgstr "准备开始？"
+
+#: php/Admin/Onboarding.php:168
+msgid "Start here"
+msgstr "从这里开始"
+
+#: php/Admin/Onboarding.php:164
+msgid "Prefer to look at the docs?"
+msgstr "喜欢看文档吗？"
+
+#: php/Admin/Onboarding.php:161
+msgid "P.S. We don't like to nag. This message won't be shown again."
+msgstr "P.S. 我们不喜欢唠叨。 此消息将不会再次显示。"
+
+#: php/Admin/Onboarding.php:154
+msgid "Let's get started!"
+msgstr "让我们开始！"
+
+#: php/Admin/Onboarding.php:151
+msgid "Here's one we prepared earlier."
+msgstr "这是我们之前准备的人。"
+
+#: php/Admin/Onboarding.php:151
+msgid "Want to see how it's done?"
+msgstr "想看看它是如何完成的？"
+
+#: php/Admin/Onboarding.php:150
+msgid "Genesis Custom Blocks makes it easy to build your own blocks for the WordPress editor."
+msgstr "Genesis自定义块使其可以轻松为WordPress编辑器构建自己的区块。"
+
+#: php/Admin/Onboarding.php:149
+msgid "Hi, and welcome!"
+msgstr "Hi，欢迎！"
+
+#: php/Admin/Onboarding.php:149
+msgid "Waving hand emoji"
+msgstr "挥手emoji"
+
+#: php/Admin/Upgrade.php:79 php/Views/Upgrade.php:127
+msgid "Genesis Pro"
+msgstr "Genesis Pro"
+
+#: php/Admin/Upgrade.php:78
+msgid "Genesis Custom Blocks Pro"
+msgstr "Genesis Custom Blocks Pro"
+
+#. Author URI of the plugin
+msgid "https://studiopress.com"
+msgstr "https://studiopress.com"
+
+#: php/Admin/Onboarding.php:187
+msgid "Scientist emoji"
+msgstr "研究员 emoji"
+
+#: php/Admin/Onboarding.php:187
+msgid "Stethescope emoji"
+msgstr "听诊器 emoji"
+
+#: php/PostTypes/BlockPost.php:177
+msgctxt "block"
+msgid "Add New"
+msgstr "添加新的"
+
+#: php/PostTypes/BlockPost.php:178
+msgid "Add New Block"
+msgstr "添加新的区块"
+
+#: php/PostTypes/BlockPost.php:179
+msgid "New Block"
+msgstr "添加新的区块"
+
+#: php/PostTypes/BlockPost.php:180
+msgid "Edit Block"
+msgstr "编辑区块"
+
+#: php/PostTypes/BlockPost.php:176
+msgctxt "add new on admin bar"
+msgid "Block"
+msgstr "区块"
+
+#: php/PostTypes/BlockPost.php:175
+msgctxt "admin menu"
+msgid "Custom Blocks"
+msgstr "自定义区块"
+
+#: php/PostTypes/BlockPost.php:174
+msgctxt "post type singular name"
+msgid "Content Block"
+msgstr "内容区块"
+
+#: php/PostTypes/BlockPost.php:173
+msgctxt "post type general name"
+msgid "Content Blocks"
+msgstr "内容区块"
+
+#: php/PostTypes/BlockPost.php:137
+msgid "Must be called after the init action so the controls are registered"
+msgstr "必须在init操作后调用，以便对控件注册"
+
+#. translators: A function name.
+#: php/Deprecated.php:30
+msgid "Genesis Custom Blocks's %1$s"
+msgstr "Genesis Custom Blocks's %1$s"
+
+#: php/Blocks/Field.php:191
+msgid "No"
+msgstr "否"
+
+#: php/Blocks/Field.php:187
+msgid "Yes"
+msgstr "是"
+
+#: php/Blocks/Controls/Number.php:38
+msgid "Number"
+msgstr "数字"
+
+#: php/Blocks/Controls/Multiselect.php:38
+msgid "Multi-Select"
+msgstr "多重选择"
+
+#: php/Views/Upgrade.php:25
+msgid "Powerful & Dynamic Fields"
+msgstr "强大和动态的 字段"
+
+#: php/Views/Upgrade.php:24
+msgid "Advanced features for Genesis Custom Blocks"
+msgstr "为Genesis Custom Blocks 添加功能"
+
+#: php/Views/Upgrade.php:19
+msgid "Get Genesis Pro"
+msgstr "Get Genesis Pro"
+
+#: php/Views/Upgrade.php:17
+msgid "Advanced tools for building better WordPress websites faster."
+msgstr "更快地构建更好WordPress网站的高级工具。"
+
+#. translators: placeholder refers to title of custom block.
+#: php/Admin/Import.php:317
+msgid "Error importing %s."
+msgstr "错误的导入 %s."
+
+#: php/Admin/Import.php:270
+msgid "Invalid JSON."
+msgstr "无效的 JSON"
+
+#: php/Admin/Import.php:269
+msgid "Sorry, there was an error processing the file."
+msgstr "对不起，处理文件时出错。"
+
+#. translators: placeholder refers to a file directory.
+#: php/Admin/Import.php:256
+msgid "The export file could not be found at %1$s. It is likely that this was caused by a permissions problem."
+msgstr "导出的文件无法在%1$s中找到。 这可能是由权限问题引起的。"
+
+#: php/Admin/Import.php:233
+msgid "Import Selected"
+msgstr "已经选择了导入"
+
+#: php/Admin/Import.php:218
+msgid "Replace"
+msgstr "替换"
+
+#: php/Admin/Import.php:216
+msgid "Import"
+msgstr "导入"
+
+#: php/Admin/Import.php:212
+msgid "Please select the blocks to import:"
+msgstr "请选择区块导入"
+
+#: php/Admin/Import.php:201
+msgid "All done!"
+msgstr "所有的都完成！"
+
+#. translators: placeholder refers to title of custom block.
+#: php/Admin/Import.php:177
+msgid "Successfully imported %1$s."
+msgstr "成功导入 %1$s."
+
+#. translators: %1$s: an opening anchor tag, %2$s: a closing anchor tag
+#: php/Admin/Import.php:136
+msgid "This JSON file should come from the export link or bulk action in the %1$sContent Blocks screen%2$s, not from the main Export tool."
+msgstr "这个json文件应该来自出口链接或批量动作在 %1$s 内容区块屏幕 %2$s，不是来自导出工具工具。"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: php/Admin/Import.php:39 php/Views/Upgrade.php:16 php/Views/Upgrade.php:122
+msgid "Genesis Custom Blocks"
+msgstr "Genesis 自定义区块"
+
+#: php/Blocks/Controls/Multiselect.php:53 php/Blocks/Controls/Radio.php:46
+#: php/Blocks/Controls/Select.php:46
+msgid "Choices"
+msgstr "选择"
+
+#: php/Blocks/Controls/Select.php:31
+msgid "Select"
+msgstr "选择"
+
+#: php/Blocks/Controls/Toggle.php:38
+msgid "Toggle"
+msgstr "触发器"
+
+#: php/Blocks/Controls/Email.php:31
+msgid "Email"
+msgstr "邮件"
+
+#: php/Blocks/Controls/ControlAbstract.php:121
+msgid "Inspector"
+msgstr "侦查器"
+
+#: php/Blocks/Controls/ControlAbstract.php:120
+#: php/Blocks/Controls/InnerBlocks.php:32
+msgid "Editor"
+msgstr "编辑"
+
+#: php/Blocks/Controls/Text.php:47 php/Blocks/Controls/Textarea.php:63
+msgid "Character Limit"
+msgstr "字符限制"
+
+#: php/Blocks/Controls/Url.php:31
+msgid "URL"
+msgstr "URL"
+
+#: php/Blocks/Controls/Checkbox.php:53
+#: php/Blocks/Controls/ControlAbstract.php:107 php/Blocks/Controls/Email.php:46
+#: php/Blocks/Controls/Multiselect.php:62 php/Blocks/Controls/Number.php:53
+#: php/Blocks/Controls/Radio.php:55 php/Blocks/Controls/Range.php:77
+#: php/Blocks/Controls/Select.php:55 php/Blocks/Controls/Textarea.php:54
+#: php/Blocks/Controls/Toggle.php:53 php/Blocks/Controls/Url.php:46
+msgid "Default Value"
+msgstr "默认值"
+
+#: php/Blocks/Controls/ControlAbstract.php:89
+msgid "Field Location"
+msgstr "字段地址"
+
+#: php/Blocks/Controls/ControlAbstract.php:95
+msgid "Field Width"
+msgstr "字段宽度"
+
+#: php/Blocks/Controls/ControlAbstract.php:101
+msgid "Help Text"
+msgstr "帮助文字"
+
+#: php/Blocks/Controls/ControlAbstract.php:113
+msgid "Placeholder Text"
+msgstr "占位符文本"
+
+#. translators: A keyword, used for search.
+#: php/Admin/Onboarding.php:380
+msgid "tutorial"
+msgstr "教程"
+
+#: php/Admin/Onboarding.php:379
+msgid "sample"
+msgstr "例子"
+
+#: php/Admin/Onboarding.php:331
+msgid "Add New Post"
+msgstr "添加新的文章"
+
+#: php/Admin/Onboarding.php:328
+msgid "You've created a new block, and added a block template. Well done!"
+msgstr "您已创建一个新区块，并添加了一个区块模板。 做得好！"
+
+#: php/Admin/Onboarding.php:327
+msgid "Only one thing left to do!"
+msgstr "只有一件事要做！"
+
+#. translators: Placeholders are <strong> html tags.
+#: php/Admin/Onboarding.php:285
+msgid "When you're ready, save your block by pressing %1$sPublish%2$s."
+msgstr "准备好之后，通过按 %1$s 来发布 %2$s. 保存你的区块"
+
+#: php/Admin/Onboarding.php:278
+msgid "Investigate a few different field types"
+msgstr "调查一些不同的字段类型"
+
+#: php/Admin/Onboarding.php:277
+msgid "Change the category"
+msgstr "改变分类"
+
+#: php/Admin/Onboarding.php:276
+msgid "Choose an icon"
+msgstr "选择一个图标"
+
+#: php/Admin/Onboarding.php:274
+msgid "Time to experiment!"
+msgstr "是时候去实验了！"
+
+#: php/Admin/Onboarding.php:274
+msgid "Test tube emoji"
+msgstr "试管emoji"
+
+#: php/Admin/Onboarding.php:252
+msgid "Field Types"
+msgstr "字段类型"
+
+#: php/Admin/Onboarding.php:245
+msgid "There are lots of different field types that let you build powerfully dynamic custom blocks."
+msgstr "有许多不同的字段类型，可让您构建强劲的动态自定义区块。"
+
+#: php/Admin/Onboarding.php:329
+msgid "All that's left is to add your block to a post."
+msgstr "剩下的就是将您的区块添加到文章中。"
+
+#: php/Admin/Onboarding.php:367 php/Admin/Onboarding.php:375
+msgid "Example Block"
+msgstr "示例区块"
+
+#. Description of the plugin
+msgid "The easy way to build custom blocks for Gutenberg."
+msgstr "为 Gutenberg 构建自定义区块的简单方式。"
+
+#: php/Views/Upgrade.php:109
+msgid "Industry leading Support"
+msgstr "行业领先支持"

@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 浮窗音乐播放器\n"
+"POT-Creation-Date: 2021-07-18 15:01+0800\n"
+"PO-Revision-Date: 2021-07-18 15:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: Eric <eric@eric.cn.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: floating-window-music-player.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: floating-window-music-player.php:28
+msgid "Setting"
+msgstr "设置"
+
+#: inc/API.php:12
+msgid "Time mode"
+msgstr "时间模式"
+
+#: inc/API.php:13
+msgid "Play mode"
+msgstr "播放模式"
+
+#: inc/API.php:14
+msgid "Lyrics mode"
+msgstr "歌词模式"
+
+#: inc/API.php:15
+msgid "Previous album"
+msgstr "上一专辑"
+
+#: inc/API.php:16
+msgid "Previous song"
+msgstr "上一首"
+
+#: inc/API.php:17
+msgid "Play"
+msgstr "播放"
+
+#: inc/API.php:18
+msgid "Next album"
+msgstr "下一专辑"
+
+#: inc/API.php:19
+msgid "Next song"
+msgstr "下一首"
+
+#: inc/API.php:20
+msgid "Song progress"
+msgstr "歌曲进度"
+
+#: inc/API.php:21
+msgid "Homepage of Music Player"
+msgstr "浮窗音乐播放器主页"
+
+#: inc/API.php:22
+msgid "Download"
+msgstr "歌曲下载"
+
+#: inc/API.php:23
+msgid "View song cover"
+msgstr "查看歌曲封面"
+
+#: inc/API.php:24
+msgid "Lyric:Close"
+msgstr "歌词关闭"
+
+#: inc/API.php:25
+msgid "Lyric:Origin"
+msgstr "原文歌词"
+
+#: inc/API.php:26
+msgid "Lyric:Trans"
+msgstr "翻译歌词"
+
+#: inc/API.php:27
+msgid "Shuffle"
+msgstr "专辑随机"
+
+#: inc/API.php:28
+msgid "Dir cycle"
+msgstr "专辑循环"
+
+#: inc/API.php:29
+msgid "On repeat"
+msgstr "单曲循环"
+
+#: inc/API.php:30
+msgid "All random"
+msgstr "完全随机"
+
+#: inc/API.php:31
+msgid "Volume"
+msgstr "音量 "
+
+#: inc/API.php:32
+msgid "Song："
+msgstr "歌曲："
+
+#: inc/API.php:33
+msgid "Singer："
+msgstr "歌手："
+
+#: inc/API.php:34
+msgid "Album："
+msgstr "专辑："
+
+#: inc/API.php:35
+msgid "Hide the player"
+msgstr "隐藏播放器"
+
+#: inc/API.php:36
+msgid "Expand the player"
+msgstr "展开播放器"
+
+#: inc/API.php:37
+msgid "Mute"
+msgstr "静音"
+
+#: inc/API.php:38
+msgid "Downoad "
+msgstr "下载"
+
+#: inc/API.php:39
+msgid "Current Playing"
+msgstr "当前播放"
+
+#: inc/API.php:40
+msgid "Playlist"
+msgstr "播放列表"
+
+#: inc/API.php:41
+msgid " Get Failed"
+msgstr "获取失败"
+
+#: inc/API.php:42
+msgid " Get Success"
+msgstr "获取成功"
+
+#: inc/API.php:43 inc/option.php:127
+msgid "Autoplay"
+msgstr "自动播放"
+
+#: inc/API.php:44
+msgid "Stop playing"
+msgstr "停止播放"
+
+#: inc/API.php:45
+msgid "Playback failed more than 3 times in a row. "
+msgstr "播放失败已超过连续3次，"
+
+#: inc/API.php:46
+msgid "Auto "
+msgstr "自动"
+
+#: inc/API.php:47
+msgid "Turn off "
+msgstr "关闭"
+
+#: inc/API.php:48
+msgid "Stop playing Next time"
+msgstr "下次停止播放"
+
+#: inc/API.php:49
+msgid "Auto playing Next time"
+msgstr "下次自动播放"
+
+#: inc/API.php:50 inc/API.php:108 inc/API.php:124
+msgid "Playing from "
+msgstr "播放自"
+
+#: inc/API.php:51
+msgid "Pause"
+msgstr "暂停"
+
+#: inc/API.php:52
+msgid "No lyric"
+msgstr "暂无歌词"
+
+#: inc/API.php:53
+msgid " Song Lists from "
+msgstr "歌单来自"
+
+#: inc/API.php:54
+msgid " Songs "
+msgstr "首"
+
+#: inc/API.php:55
+msgid " albums"
+msgstr " 专辑"
+
+#: inc/API.php:56
+msgid "Song Seeking"
+msgstr "歌曲寻址中"
+
+#: inc/API.php:57
+msgid "Loading songs"
+msgstr "歌单载入中"
+
+#: inc/API.php:58
+msgid "Please wait.."
+msgstr "请稍候。。"
+
+#: inc/API.php:59
+msgid "Lyric:"
+msgstr "歌词"
+
+#: inc/API.php:108 inc/API.php:118 inc/option.php:77 inc/option.php:94
+msgid "Netease Music"
+msgstr "网易音乐"
+
+#: inc/API.php:119 inc/option.php:78 inc/option.php:95
+msgid "QQ Music"
+msgstr "QQ音乐"
+
+#: inc/API.php:120 inc/option.php:79 inc/option.php:97
+msgid "Baidu Music"
+msgstr "百度音乐"
+
+#: inc/API.php:121 inc/option.php:82 inc/option.php:96
+msgid "Xiami Music"
+msgstr "虾米音乐"
+
+#: inc/API.php:122 inc/option.php:80 inc/option.php:99
+msgid "Kugou Music"
+msgstr "酷狗音乐"
+
+#: inc/API.php:123 inc/option.php:81 inc/option.php:98
+msgid "Kuwo Music"
+msgstr "酷我音乐"
+
+#: inc/API.php:140 inc/API.php:141
+msgid "Key: Play / Pause "
+msgstr "键：播放/暂停 "
+
+#: inc/option.php:50
+msgid "Music Player"
+msgstr "音乐播放器"
+
+#. Plugin Name of the plugin/theme
+#: inc/option.php:56
+msgid "Floating Window Music-Player"
+msgstr "浮窗音乐播放器"
+
+#: inc/option.php:61
+msgid "Music site code settings"
+msgstr "音乐网站代码设置"
+
+#: inc/option.php:64
+msgid "Netease cloud music Cookie, detailed settings see the player home page"
+msgstr "网易云音乐Cookie，详细设置参看播放器主页"
+
+#: inc/option.php:65
+msgid "Detailed settings see below, fill in NO to close"
+msgstr "详细设置看下方说明，无需则填NO"
+
+#: inc/option.php:66
+msgid "Enter full URL of music (Only Album / Song list)"
+msgstr "输入音乐完整地址（仅限专辑 / 歌单）"
+
+#: inc/option.php:67
+msgid "Get code and categorie"
+msgstr "获取代码及分类"
+
+#: inc/option.php:68
+msgid "Name"
+msgstr "名字"
+
+#: inc/option.php:69
+msgid "Code"
+msgstr "代码"
+
+#: inc/option.php:71
+msgid "User ID"
+msgstr "用户编号"
+
+#: inc/option.php:72
+msgid "Album"
+msgstr "专辑"
+
+#: inc/option.php:73
+msgid "Artist"
+msgstr "艺人"
+
+#: inc/option.php:74
+msgid "Song list"
+msgstr "歌单"
+
+#: inc/option.php:84
+msgid "Add message"
+msgstr "添加信息"
+
+#: inc/option.php:86
+msgid "Completion Instructions"
+msgstr "填写说明"
+
+#: inc/option.php:87
+msgid "Support Netease, QQ, Baidu, Kugou, Kuwo and Xiami music playback."
+msgstr "支持网易、QQ、百度、酷狗、酷我及虾米音乐的播放。"
+
+#: inc/option.php:88
+msgid ""
+"Netease / QQ / Xiami / Baidu / Kugou / Kuwo music code settings: (Advise to "
+"use the above tools to get code and categorie, with or without \"|\" "
+"character as ending)"
+msgstr ""
+"网易/QQ/虾米/百度/酷狗/酷我音乐设置：（建议用上方工具获取代码及分类，结尾有"
+"或无\"|\"字符均可）"
+
+#: inc/option.php:89
+msgid ""
+"Each message format: <b>Name * Code * Categorie*Source</b>, multiple "
+"messages separat with \"|\", not contain \"|\" or \"*\" in Name."
+msgstr ""
+"每条信息格式：名字*代码*分类*来源，多条信息间用\"|\"分隔，名字中不要有\"|"
+"\"或\"*\"。"
+
+#: inc/option.php:90
+msgid ""
+"Source as follows: Netease music => netease; QQ music => tencent; Baidu "
+"music => baidu; Kugou music => kugou; Kuwo music => kuwo; Xiami music => "
+"xiami"
+msgstr ""
+"来源如下：网易 => netease; QQ => tencent; 百度 => baidu; 酷狗 => kugou;  酷"
+"我 => kuwo; 虾米 => xiami"
+
+#: inc/option.php:91
+msgid "The artist's code is the number of songs."
+msgstr "艺人代码为歌曲数量。"
+
+#: inc/option.php:92
+msgid ""
+"Categories as follows: User ID（Only support Netease）=> 0; Album => 1; "
+"Artist => 2; Song list => 3"
+msgstr "分类如下：用户编号（仅支持网易）=> 0; 专辑=>1；艺人=>2；歌单=>3"
+
+#: inc/option.php:93
+msgid "Examples"
+msgstr "示例"
+
+#: inc/option.php:107
+msgid "Player settings"
+msgstr "播放器设置"
+
+#: inc/option.php:109
+msgid "Name of playlist"
+msgstr "播放列表名称"
+
+#: inc/option.php:110
+msgid "Prompts content"
+msgstr "提示访客内容"
+
+#: inc/option.php:110
+msgid "Welcome to "
+msgstr "欢迎访问"
+
+#: inc/option.php:110
+msgid "Welcome  prompt"
+msgstr "欢迎提示语/歌词欢迎语"
+
+#: inc/option.php:111
+msgid "Time of Auto-hide"
+msgstr "自动隐藏时间"
+
+#: inc/option.php:113 inc/option.php:119 inc/option.php:125
+msgid "Close"
+msgstr "关闭"
+
+#: inc/option.php:114
+msgid "Time of Music-Player auto-hide, seconds"
+msgstr "播放器自动隐藏时间，秒"
+
+#: inc/option.php:115
+msgid "Load icons"
+msgstr "加载图标库"
+
+#: inc/option.php:116 inc/option.php:121 inc/option.php:145
+msgid "Customize "
+msgstr "自定义"
+
+#: inc/option.php:117 inc/option.php:122
+msgid "Enter the full URL"
+msgstr "输入完整网址"
+
+#: inc/option.php:118
+msgid "Open"
+msgstr "开启"
+
+#: inc/option.php:119
+msgid ", if the plug-in installed choose close"
+msgstr "图标，如已安装插件则无需加载"
+
+#: inc/option.php:120
+msgid "Load Base Lib"
+msgstr "加载基础库"
+
+#: inc/option.php:123
+msgid "High version"
+msgstr "高版"
+
+#: inc/option.php:123
+msgid "(IE9 above)"
+msgstr "(IE9以上)"
+
+#: inc/option.php:124
+msgid "Low version"
+msgstr "低版"
+
+#: inc/option.php:125
+msgid "JQuery Base Lib"
+msgstr "JQuery基础库，建议选择高版，如有冲突可选低版"
+
+#: inc/option.php:127
+msgid "Open Lyrics"
+msgstr "开启歌词"
+
+#: inc/option.php:128
+msgid "Random Songs"
+msgstr "随机歌曲"
+
+#: inc/option.php:128
+msgid "Random Album"
+msgstr "随机专辑"
+
+#: inc/option.php:129
+msgid "Allow mobile-use"
+msgstr "允许移动端"
+
+#: inc/option.php:129
+msgid ""
+"Allow the player to play on the mobile side will consume a lot of traffic, "
+"carefully open"
+msgstr "允许在移动端上播放会耗费移动端大量流量，谨慎开启"
+
+#: inc/option.php:129
+msgid "Load anti-refresh"
+msgstr "加载防刷新"
+
+#: inc/option.php:129
+msgid "AJAX anti-refresh, if themes or plug-ins installed choose close"
+msgstr "AJAX防刷新，如主题或插件已有则无需加载"
+
+#: inc/option.php:134
+msgid "Built-in AJAX anti-refresh settings"
+msgstr "内置AJAX防刷新设置"
+
+#: inc/option.php:137
+msgid "Content Element ID"
+msgstr "网站文章的容器ID名称"
+
+#: inc/option.php:137
+msgid ""
+"For most themes this should not need to be changed, however if it does you "
+"need to find the container which wraps around the page content (not "
+"including any menu bars (vertical and/or horizontal)), this container might "
+"already have an ID attribute of DIV, or you may need to assign one."
+msgstr ""
+"对于大多数主题，这不应该需要更改，但是如果您需要查找包含页面内容的容器（不包"
+"括任何菜单栏（垂直和/或水平）），则此容器可能已具有ID属性 的DIV，或者您可能"
+"需要分配一个。"
+
+#: inc/option.php:138
+msgid "Search Form CLASS"
+msgstr "网站搜索框的容器名称"
+
+#: inc/option.php:138
+msgid ""
+"This plugin automatically binds to the search form with the provided class "
+"name (default: searchform), but if this is not set for your theme it will "
+"just do a normal post search without ajax."
+msgstr ""
+"这个插件自动绑定到提供的类名称（默认：searchform）的搜索表单，但如果这不是为"
+"您的主题设置，它将只做一个普通没有AJAX的搜索。"
+
+#: inc/option.php:139
+msgid "Article Title Location"
+msgstr "文件标题位置"
+
+#: inc/option.php:139
+msgid "Article title behind which h1 (not included /h1)"
+msgstr "文章标题在第几个h1后面（不包括/h1）"
+
+#: inc/option.php:140
+msgid "Exception Link"
+msgstr "例外链接格式"
+
+#: inc/option.php:140
+msgid "Exception Link Format, separated by commas lowercase"
+msgstr "不需要加载AJAX的链接格式，用小写逗号分隔"
+
+#: inc/option.php:148
+msgid "Common Settings Example (Default Value)"
+msgstr "常用设置例子（默认数值）"
+
+#: inc/option.php:149
+msgid "Adjust position of play button"
+msgstr "调整播放按钮位置"
+
+#: inc/option.php:149
+msgid "Number gets small, location more left"
+msgstr "数字越小越靠左"
+
+#: inc/option.php:150
+msgid "Adjust font size of player"
+msgstr "调整播放器字体大小"
+
+#: inc/option.php:151
+msgid "Adjust font size of subtitle"
+msgstr "调整字幕字体大小"
+
+#: inc/option.php:152
+msgid "Adjust font size of prompt"
+msgstr "调整提示字体大小"
+
+#: inc/option.php:153
+msgid "Adjust the volume bar height"
+msgstr "调整音量条高度"
+
+#: inc/option.php:154
+msgid ""
+"Copy the appropriate code to the above column, without adding any "
+"delimiters, adjust the value and save it."
+msgstr "完整复制相应代码黏贴到上栏，无需加任何分隔符，调整数值并保存即可。"
+
+#: inc/option.php:157
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: inc/option.php:157
+msgid "Be sure to save the settings once after the initial installation"
+msgstr "初次安装后请务必保存设置一次"
+
+#: inc/option.php:210
+msgid "Settings saved successfully"
+msgstr "设置已保存"
+
+#. Plugin URI of the plugin/theme
+msgid "http://eric.cn.com/?p=1187"
+msgstr "http://eric.cn.com/?p=1187"
+
+#. Description of the plugin/theme
+msgid ""
+"The plugin supports Netease, Tencent, Xiami, Kugou and Baidu Music online "
+"playing on a floating window."
+msgstr "本插件支持在浮窗上在线播放网易云、QQ、虾米、酷狗和百度音乐。"
+
+#. Author of the plugin/theme
+msgid "Eric"
+msgstr "Eric"
+
+#. Author URI of the plugin/theme
+msgid "http://eric.cn.com/"
+msgstr "http://eric.cn.com/"

@@ -1,0 +1,250 @@
+# Translation of Plugins - Cool Tag Cloud - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Cool Tag Cloud - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-17 04:41:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Cool Tag Cloud - Development (trunk)\n"
+
+#: cool-tag-cloud.php:437
+msgid "Link to tag archive"
+msgstr "链接到标签档案"
+
+#: cool-tag-cloud.php:437
+msgid "If you only want a list of tags that do not link to the archives set this to \"No\"."
+msgstr "如果只需要一个不链接到存档的标签列表，则将其设置为“否”。"
+
+#: cool-tag-cloud.php:425
+msgid "Max Height"
+msgstr "最大高度"
+
+#: cool-tag-cloud.php:429
+msgid "Button Show More"
+msgstr "按钮\"显示更多\""
+
+#: cool-tag-cloud.php:433
+msgid "Button Show Less"
+msgstr "按钮\"显示较少\""
+
+#: cool-tag-cloud.php:433
+msgid "Button label (when max width set) to show less tags."
+msgstr "按钮标签（设置最大宽度时），以显示较少的标签。"
+
+#: cool-tag-cloud.php:429
+msgid "Button label (when max width set) to show more tags."
+msgstr "按钮标签(设置最大宽度时)，以显示更多的标签。"
+
+#: cool-tag-cloud.php:425
+msgid "Limits initial height (in pixels) and adds a button for showing all tags."
+msgstr "限制初始高度（以像素为单位），并添加一个用于显示所有标签的按钮。"
+
+#: cool-tag-cloud.php:421
+msgid "The ID of the tag/category. Shows children terms."
+msgstr "标签/类别的ID。 显示子项目。"
+
+#: cool-tag-cloud.php:421
+msgid "Child of"
+msgstr "子级"
+
+#: cool-tag-cloud.php:417
+msgid "Exclude"
+msgstr "排除"
+
+#: cool-tag-cloud.php:413 cool-tag-cloud.php:417
+msgid "Enter IDs of the tags separated by a comma. Example: 1,2,3,4"
+msgstr "输入标签的ID，以逗号分隔。示例：1,2,3,4"
+
+#: cool-tag-cloud.php:413
+msgid "Include"
+msgstr "包括"
+
+#: cool-tag-cloud.php:390
+msgid "Show post counts"
+msgstr "显示文章数目"
+
+#: cool-tag-cloud.php:399 cool-tag-cloud.php:406
+msgid "All tags"
+msgstr "所有标签"
+
+#: cool-tag-cloud.php:397
+msgid "On single post display"
+msgstr "显示在单篇文章"
+
+#. Author of the plugin
+msgid "WPKube"
+msgstr "WPKube"
+
+#. Author URI of the plugin
+msgid "https://www.wpkube.com/"
+msgstr "https://www.wpkube.com/"
+
+#: cool-tag-cloud.php:267
+msgid "Red"
+msgstr "红色"
+
+#: cool-tag-cloud.php:269
+msgid "Blue"
+msgstr "蓝色"
+
+#: cool-tag-cloud.php:271
+msgid "Brown"
+msgstr "褐色"
+
+#: cool-tag-cloud.php:273
+msgid "Purple"
+msgstr "紫色"
+
+#: cool-tag-cloud.php:275
+msgid "Cyan"
+msgstr "青色"
+
+#: cool-tag-cloud.php:277
+msgid "Lime"
+msgstr "柠檬绿"
+
+#: cool-tag-cloud.php:279
+msgid "Black"
+msgstr "黑色"
+
+#: cool-tag-cloud.php:285
+msgid "Image align:"
+msgstr "图片对齐："
+
+#: cool-tag-cloud.php:289
+msgid "Left"
+msgstr "左对齐"
+
+#: cool-tag-cloud.php:291
+msgid "Right"
+msgstr "右对齐"
+
+#: cool-tag-cloud.php:297
+msgid "Animation on hover:"
+msgstr "鼠标悬停动画："
+
+#: cool-tag-cloud.php:301 cool-tag-cloud.php:382 cool-tag-cloud.php:392
+#: cool-tag-cloud.php:439
+msgid "Yes"
+msgstr "开启"
+
+#: cool-tag-cloud.php:303 cool-tag-cloud.php:384 cool-tag-cloud.php:393
+#: cool-tag-cloud.php:440
+msgid "No"
+msgstr "关闭"
+
+#: cool-tag-cloud.php:309
+msgid "Text transform:"
+msgstr "文字变换："
+
+#: cool-tag-cloud.php:313
+msgid "None"
+msgstr "关闭"
+
+#: cool-tag-cloud.php:315
+msgid "Uppercase"
+msgstr "大写"
+
+#: cool-tag-cloud.php:317
+msgid "Lowercase"
+msgstr "小写"
+
+#: cool-tag-cloud.php:319
+msgid "Capitalize"
+msgstr "首字母大写"
+
+#: cool-tag-cloud.php:325
+msgid "Maximum tags (0 for no limit):"
+msgstr "最大标签数量(0代表不限制):"
+
+#: cool-tag-cloud.php:333
+msgid "Order tags by:"
+msgstr "标签排序："
+
+#: cool-tag-cloud.php:345
+msgid "Tag order direction:"
+msgstr "标签排序方向："
+
+#: cool-tag-cloud.php:349
+msgid "ascending"
+msgstr "升序"
+
+#: cool-tag-cloud.php:351
+msgid "descending"
+msgstr "降序"
+
+#: cool-tag-cloud.php:353
+msgid "random"
+msgstr "随机"
+
+#: cool-tag-cloud.php:361
+msgid "Taxonomy:"
+msgstr "分类："
+
+#: cool-tag-cloud.php:378
+msgid "Nofollow for tag links:"
+msgstr "不让搜索引擎追踪标签链接："
+
+#. Plugin Name of the plugin
+msgid "Cool Tag Cloud"
+msgstr "Cool Tag Cloud"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/cool-tag-cloud/"
+msgstr "https://cn.wordpress.org/plugins/cool-tag-cloud/"
+
+#. Description of the plugin
+msgid "A simple, yet very beautiful tag cloud."
+msgstr "一个简单但非常漂亮的标签云。"
+
+#: cool-tag-cloud.php:46
+msgid "Cool Tag Cloud widget."
+msgstr "Cool Tag Cloud小工具。"
+
+#: cool-tag-cloud.php:165
+msgid "Title:"
+msgstr "标题："
+
+#: cool-tag-cloud.php:173
+msgid "Font family:"
+msgstr "字体样式："
+
+#: cool-tag-cloud.php:197
+msgid "Font weight:"
+msgstr "字体粗细："
+
+#: cool-tag-cloud.php:201
+msgid "Normal"
+msgstr "正常"
+
+#: cool-tag-cloud.php:203
+msgid "Bold"
+msgstr "粗体"
+
+#: cool-tag-cloud.php:209
+msgid "Smallest font size:"
+msgstr "最小的字体大小："
+
+#: cool-tag-cloud.php:233
+msgid "Largest font size:"
+msgstr "最大的字体大小："
+
+#: cool-tag-cloud.php:257
+msgid "Image style:"
+msgstr "图片风格："
+
+#: cool-tag-cloud.php:261
+msgid "Default (Orange)"
+msgstr "默认（橙色）"
+
+#: cool-tag-cloud.php:263
+msgid "Silver"
+msgstr "银色"
+
+#: cool-tag-cloud.php:265
+msgid "Green"
+msgstr "绿色"

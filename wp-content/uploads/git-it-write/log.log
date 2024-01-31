@@ -1,0 +1,22 @@
+01/25/2024 03:45 - Got webhook delivery 33031e80-bb34-11ee-9d50-2155cc0e1032
+01/25/2024 03:45 - Error - No secret configured on server
+01/26/2024 08:37 - ********** Publishing posts by repository config ID **********
+01/26/2024 08:37 - Working with repository config ID 1
+01/26/2024 08:37 - Creating repository object
+01/26/2024 08:37 - Building repo structure ...
+01/26/2024 08:37 - Repository not found on Github! [https://api.github.com/repos/Bingboom/My-world-of-words/git/trees/master?recursive=1]. Error message [Not Found]
+01/26/2024 08:37 - []
+01/26/2024 08:37 - ++++++++++ Uploading images first ++++++++++
+01/26/2024 08:37 - No images directory in repository. Exiting
+01/26/2024 08:37 - ++++++++++ Done ++++++++++
+01/26/2024 08:37 - ++++++++++ Publishing posts ++++++++++
+01/26/2024 08:37 - Allowed file types - md
+01/26/2024 08:37 - ++++++++++ Done ++++++++++
+01/26/2024 08:37 - {"result":3,"message":"No new changed were made. All posts are up to date.","stats":{"posts":{"new":[],"updated":[],"failed":0},"images":{"uploaded":[],"failed":0}}}
+01/26/2024 08:37 - ********** END **********
+01/26/2024 08:53 - Got webhook delivery 6bc8b1d6-bc28-11ee-8ff6-a5ce61b8322a
+01/26/2024 08:53 - Error - No secret configured
+01/26/2024 09:06 - Got webhook delivery 32edf37e-bc2a-11ee-8e73-003a5392c436
+01/26/2024 09:06 - Error - No secret configured
+01/26/2024 09:12 - Got webhook delivery 073ec7ca-bc2b-11ee-8f48-9eb7df07424b
+01/26/2024 09:12 - Error - No secret configured

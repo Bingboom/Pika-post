@@ -1,0 +1,1129 @@
+# Translation of Plugins - Shared Files – Easy Download Manager and File Sharing Plugin with Frontend File Upload - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Shared Files – Easy Download Manager and File Sharing Plugin with Frontend File Upload - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-09 04:43:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Shared Files – Easy Download Manager and File Sharing Plugin with Frontend File Upload - Stable (latest release)\n"
+
+#: admin/class-sf-admin-shortcodes.php:137
+#: admin/class-sf-admin-shortcodes.php:410
+#: admin/class-sf-admin-shortcodes.php:562
+msgid "Exclude categories (by slug):"
+msgstr "排除类别（按 slug）："
+
+#: admin/class-sf-admin-sync-media-library.php:100
+msgid "Files found in the media library"
+msgstr "在媒体库中找到的文件："
+
+#: admin/class-sf-admin-sync-media-library.php:49
+msgid "If a file is inactive, it means that it exists in the media library, but has not yet been activated for the plugin."
+msgstr "如果文件处于非激活状态，则表示该文件存在于服务器上，但尚未在插件中使用。"
+
+#: admin/class-sf-admin-sync-media-library.php:14
+msgid "Media Library"
+msgstr "媒体库"
+
+#: admin/class-sf-admin-shortcodes.php:123
+msgid "Show tag dropdown:"
+msgstr "显示标签下拉列表："
+
+#: admin/class-sf-admin-sync-media-library.php:13
+msgid "Sync Media Library"
+msgstr "同步媒体库"
+
+#: admin/class-sf-admin-sync-media-library.php:28
+msgid "Sync Media Library Files"
+msgstr "同步媒体库文件"
+
+#: admin/class-sf-admin-metadata.php:64
+msgid "This file is activated from the media library"
+msgstr "此文件从媒体库激活"
+
+#: admin/class-sf-admin-sync-media-library.php:43
+msgid "You may activate files found in the media library to be used by the plugin, without having to add the files again."
+msgstr "您可以激活媒体库中找到的文件以供插件使用，而无需再次添加文件。"
+
+#: admin/class-sf-admin-metadata.php:143
+msgid "How to increase the maximum file size"
+msgstr "如何增加文件大小上限"
+
+#: admin/class-sf-admin-metadata.php:142
+msgid "Maximum size of uploaded file:"
+msgstr "上传文件的大小上限："
+
+#: admin/class-sf-admin-settings.php:4106
+msgid "Category name"
+msgstr "类别名称"
+
+#: admin/class-sf-admin-shortcodes.php:614
+msgid "Choose one value from the list separated by \"|\":"
+msgstr "从列表中选择一个值："
+
+#: admin/class-sf-admin-help-support.php:194
+msgid "Help regarding finding the correct settings"
+msgstr "设置帮助"
+
+#: admin/class-sf-admin-help-support.php:219
+msgid "Set the file opening method to \"Redirect\"."
+msgstr "将文件打开方法设置为\"重定向（Redirect）\"。"
+
+#: admin/class-sf-admin-help-support.php:246
+msgid "Thank you!"
+msgstr "谢谢！"
+
+#. translators: %s: link to the list of available shortcodes
+#: admin/class-sf-admin-help-support.php:175
+msgid "A complete list of available shortcodes can be found <a href=\"%s\">here</a>."
+msgstr "短代码完整列表查阅处：<a href=\"%s\">短代码</a>."
+
+#: admin/class-sf-admin-help-support.php:141
+msgid "A simpler list of files:"
+msgstr "文件列表："
+
+#. translators: %s: link to file management
+#: admin/class-sf-admin-help-support.php:107
+msgid "Add the files from the <a href=\"%s\" target=\"_blank\">file management</a> page."
+msgstr "添加文件 <a href=\"%s\" target=\"_blank\">文件管理</a>。"
+
+#: admin/class-sf-admin-shortcodes.php:8 admin/class-sf-admin-shortcodes.php:26
+msgid "Available shortcodes for Shared Files"
+msgstr "Shared Files可用短代码"
+
+#: admin/class-sf-admin-shortcodes.php:608
+msgid "How to define the order of the files for each shortcode"
+msgstr "如何在短代码中定义文件的排列顺序"
+
+#: admin/class-sf-admin-help-support.php:97
+msgid "Instructions for basic usage"
+msgstr "使用说明"
+
+#: admin/class-sf-admin-help-support.php:22
+msgid "Please note"
+msgstr "请注意"
+
+#: admin/class-sf-admin-shortcodes.php:9
+msgid "Shortcodes"
+msgstr "简码"
+
+#: admin/class-sf-admin-help-support.php:127
+msgid "The default file list:"
+msgstr "默认文件列表："
+
+#: admin/class-sf-admin-help-support.php:22
+msgid "you have currently \"Plain\" selected in the permalink settings. You should change this to any other available setting to enable the Shared Files to operate normally. Thank you!"
+msgstr "目前您将permalink设置为“Plain”,您应该将其更改为其他可用设置，以使shared-files能够正常运行。"
+
+#: admin/class-sf-admin-settings.php:1034
+msgid "Show External Url on file upload form"
+msgstr "显示外部 URL填写项"
+
+#: admin/class-sf-admin-settings.php:1056
+msgid "Text for External URL"
+msgstr "外部URL框标题文字"
+
+#: admin/class-sf-admin-settings.php:3394
+msgid "2 columns"
+msgstr "2列"
+
+#: admin/class-sf-admin-settings.php:3399
+msgid "3 columns"
+msgstr "3列"
+
+#: admin/class-sf-admin-settings.php:3404
+msgid "4 columns"
+msgstr "4列"
+
+#: admin/class-sf-admin-settings.php:3304
+msgid "File upload"
+msgstr "文件上传"
+
+#: admin/class-sf-admin-shortcodes.php:261
+msgid "Hide the file list and show only the file upload form:"
+msgstr "隐藏文件列表并仅显示文件上载表单："
+
+#: admin/class-sf-admin-shortcodes.php:130
+msgid "Layout as \"2 columns\":"
+msgstr "展示为两列："
+
+#: admin/class-sf-admin-shortcodes.php:132
+msgid "Layout as \"3 columns\":"
+msgstr "展示为三列："
+
+#: admin/class-sf-admin-shortcodes.php:133
+msgid "Layout as \"4 columns\":"
+msgstr "展示为四列："
+
+#: admin/class-sf-admin-settings.php:3182
+msgid "Front-end file uploader settings"
+msgstr "前端文件上传表单设置"
+
+#: admin/class-sf-admin-settings.php:2330
+msgid "If checked, all uploaded files will be instantly listed on other shortcodes/pages also."
+msgstr "如果勾选，所有上传的文件将立即列在其他短代码/页面上。"
+
+#: admin/class-sf-admin-settings.php:1023
+msgid "Uncheck \"Hide from other pages\" for uploaded files"
+msgstr "取消\"在其他页面中隐藏\""
+
+#: admin/class-sf-admin-settings.php:1634
+msgid "Hide \"Bandwidth usage\"-column"
+msgstr "隐藏\"带宽使用情况\"-列"
+
+#: admin/class-sf-admin-settings.php:1645
+msgid "Hide \"Expiration date\"-column"
+msgstr "隐藏\"到期时间\"-列"
+
+#: admin/class-sf-admin-settings.php:358
+msgid "Message for download limit reached"
+msgstr "达到下载限制"
+
+#: admin/class-sf-admin-settings.php:682
+msgid "Normally it is displayed instead of file type icon."
+msgstr "通常显示它而不是文件类型图标。"
+
+#: admin/class-sf-admin-settings.php:1582
+msgid "Notification recipient email"
+msgstr "通知收件人电子邮件"
+
+#: admin/class-sf-admin-settings.php:1536
+msgid "Send an email notify when a file is downloaded"
+msgstr "文件被下载时发送电子邮件通知"
+
+#: admin/class-sf-admin-shortcodes.php:317
+msgid "Show category checkboxes for the uploader:"
+msgstr "显示上传器的类别复选框："
+
+#: admin/class-sf-admin-shortcodes.php:265
+msgid "Show tag checkboxes for the uploader:"
+msgstr "显示上传器的标记复选框："
+
+#: admin/class-sf-admin-settings.php:887
+msgid "Only logged in users can add files using the front-end file uploader"
+msgstr "只有登录用户可以使用"
+
+#: admin/class-sf-admin-settings.php:942
+msgid "Show category checkboxes for front-end file uploader (instead of dropdown)"
+msgstr "显示类别复选框（替换下拉列表）"
+
+#: admin/class-sf-admin-settings.php:1012
+msgid "Show tag checkboxes for front-end file uploader"
+msgstr "显示标签复选框"
+
+#. Description of the plugin
+msgid "A simple yet effective tool to list downloadable files on your site."
+msgstr "一个简单而有效的工具，在您的网站上展示可下载的文件。"
+
+#: admin/class-sf-admin-sync-files.php:229
+#: admin/class-sf-admin-sync-media-library.php:179
+msgid "Activate"
+msgstr "启用"
+
+#: admin/class-sf-admin-sync-files.php:101
+msgid "Activate all inactive files"
+msgstr "激活所有非活动文件"
+
+#: admin/class-sf-admin-sync-files.php:220
+#: admin/class-sf-admin-sync-media-library.php:165
+msgid "Active"
+msgstr "激活"
+
+#: admin/class-sf-admin-cpt.php:23
+msgid "Add New"
+msgstr "添加文件"
+
+#: admin/class-sf-admin-taxonomy.php:44
+msgid "Add New Category"
+msgstr "添加新分类目录"
+
+#: admin/class-sf-admin-cpt.php:19
+msgid "Add New File"
+msgstr "添加新文件"
+
+#: admin/class-sf-admin-shortcodes.php:398
+#: admin/class-sf-admin-shortcodes.php:441
+#: admin/class-sf-admin-shortcodes.php:511
+#: admin/class-sf-admin-shortcodes.php:559
+msgid "Additional parameters:"
+msgstr "其他参数："
+
+#: admin/class-sf-admin-settings.php:3230
+#: admin/class-sf-admin-settings.php:3321
+msgid "Admin list"
+msgstr "管理员列表"
+
+#: admin/class-sf-admin-settings.php:739
+msgid "Align featured image"
+msgstr "特色图像位置"
+
+#: admin/class-sf-admin-taxonomy.php:39
+msgid "All Categories"
+msgstr "所有类别"
+
+#: public/class-sf-public-file-card-default.php:206
+#: public/class-sf-public-file-card-vertical.php:184
+msgid "Are you sure?"
+msgstr "是否确定？"
+
+#: admin/class-sf-admin-settings.php:4135
+msgid "Ascending"
+msgstr "升序"
+
+#: admin/class-sf-admin-notifications.php:34
+msgid "Ask Me Later"
+msgstr "稍后再问我"
+
+#: public/class-sf-public-pagination.php:64
+msgid "Browse more files:"
+msgstr "浏览更多文件："
+
+#: admin/class-sf-admin-settings.php:2322
+msgid "Can also be used with other hosting providers, may help solving 404 errors."
+msgstr "也可以与其他托管提供商一起使用，可以帮助解决404错误。"
+
+#: admin/class-sf-admin-settings.php:762
+msgid "Card background"
+msgstr "卡片背景"
+
+#: admin/class-sf-admin-settings.php:773
+msgid "Card background, custom color (HEX code)"
+msgstr "卡片背景自定义（HEX code）"
+
+#: admin/class-sf-admin-settings.php:616
+msgid "Card font"
+msgstr "字体"
+
+#: admin/class-sf-admin-settings.php:750
+msgid "Card height in pixels"
+msgstr "卡片高度（以像素为单位）"
+
+#: admin/class-sf-admin-taxonomy.php:46 admin/class-sf-admin-taxonomy.php:54
+#: admin/class-sf-admin-taxonomy.php:55 admin/class-sf-admin-taxonomy.php:69
+msgid "Categories"
+msgstr "分类"
+
+#: admin/class-sf-admin-list.php:14 admin/class-sf-admin-taxonomy.php:36
+#: admin/class-sf-admin-taxonomy.php:37
+msgid "Category"
+msgstr "分类"
+
+#: admin/class-sf-admin-sync-files.php:67
+#: admin/class-sf-admin-sync-media-library.php:67
+msgid "Category for new files:"
+msgstr "新文件类别："
+
+#: admin/class-sf-admin-sync-files.php:82
+#: admin/class-sf-admin-sync-media-library.php:82
+msgid "Choose category"
+msgstr "选择分类"
+
+#: admin/class-sf-admin-inline-scripts.php:32
+msgid "Close"
+msgstr "关闭"
+
+#: admin/class-sf-admin-help-support.php:137
+#: admin/class-sf-admin-help-support.php:151
+#: admin/class-sf-admin-help-support.php:165 admin/class-sf-admin-list.php:94
+#: admin/class-sf-admin-notifications.php:81
+#: admin/class-sf-admin-notifications.php:90
+#: admin/class-sf-admin-notifications.php:99
+#: admin/class-sf-admin-shortcodes.php:85
+#: admin/class-sf-admin-shortcodes.php:91
+#: admin/class-sf-admin-shortcodes.php:93
+#: admin/class-sf-admin-shortcodes.php:107
+#: admin/class-sf-admin-shortcodes.php:123
+#: admin/class-sf-admin-shortcodes.php:125
+#: admin/class-sf-admin-shortcodes.php:126
+#: admin/class-sf-admin-shortcodes.php:128
+#: admin/class-sf-admin-shortcodes.php:130
+#: admin/class-sf-admin-shortcodes.php:132
+#: admin/class-sf-admin-shortcodes.php:133
+#: admin/class-sf-admin-shortcodes.php:135
+#: admin/class-sf-admin-shortcodes.php:137
+#: admin/class-sf-admin-shortcodes.php:139
+#: admin/class-sf-admin-shortcodes.php:141
+#: admin/class-sf-admin-shortcodes.php:143
+#: admin/class-sf-admin-shortcodes.php:146
+#: admin/class-sf-admin-shortcodes.php:151
+#: admin/class-sf-admin-shortcodes.php:153
+#: admin/class-sf-admin-shortcodes.php:155
+#: admin/class-sf-admin-shortcodes.php:172
+#: admin/class-sf-admin-shortcodes.php:175
+#: admin/class-sf-admin-shortcodes.php:186
+#: admin/class-sf-admin-shortcodes.php:187
+#: admin/class-sf-admin-shortcodes.php:188
+#: admin/class-sf-admin-shortcodes.php:212
+#: admin/class-sf-admin-shortcodes.php:241
+#: admin/class-sf-admin-shortcodes.php:244
+#: admin/class-sf-admin-shortcodes.php:257
+#: admin/class-sf-admin-shortcodes.php:259
+#: admin/class-sf-admin-shortcodes.php:261
+#: admin/class-sf-admin-shortcodes.php:263
+#: admin/class-sf-admin-shortcodes.php:265
+#: admin/class-sf-admin-shortcodes.php:275
+#: admin/class-sf-admin-shortcodes.php:285
+#: admin/class-sf-admin-shortcodes.php:295
+#: admin/class-sf-admin-shortcodes.php:305
+#: admin/class-sf-admin-shortcodes.php:315
+#: admin/class-sf-admin-shortcodes.php:325
+#: admin/class-sf-admin-shortcodes.php:335
+#: admin/class-sf-admin-shortcodes.php:345
+#: admin/class-sf-admin-shortcodes.php:373
+#: admin/class-sf-admin-shortcodes.php:402
+#: admin/class-sf-admin-shortcodes.php:404
+#: admin/class-sf-admin-shortcodes.php:406
+#: admin/class-sf-admin-shortcodes.php:408
+#: admin/class-sf-admin-shortcodes.php:410
+#: admin/class-sf-admin-shortcodes.php:439
+#: admin/class-sf-admin-shortcodes.php:445
+#: admin/class-sf-admin-shortcodes.php:447
+#: admin/class-sf-admin-shortcodes.php:449
+#: admin/class-sf-admin-shortcodes.php:451
+#: admin/class-sf-admin-shortcodes.php:453
+#: admin/class-sf-admin-shortcodes.php:455
+#: admin/class-sf-admin-shortcodes.php:457
+#: admin/class-sf-admin-shortcodes.php:485
+#: admin/class-sf-admin-shortcodes.php:509
+#: admin/class-sf-admin-shortcodes.php:514
+#: admin/class-sf-admin-shortcodes.php:537
+#: admin/class-sf-admin-shortcodes.php:557
+#: admin/class-sf-admin-shortcodes.php:562
+#: admin/class-sf-admin-shortcodes.php:563
+#: admin/class-sf-admin-shortcodes.php:565
+#: admin/class-sf-admin-shortcodes.php:567
+#: admin/class-sf-admin-shortcodes.php:592
+#: admin/class-sf-admin-shortcodes.php:597
+#: admin/class-sf-admin-shortcodes.php:619
+#: admin/class-sf-admin-shortcodes.php:622
+#: admin/class-sf-admin-shortcodes.php:625
+#: admin/class-sf-admin-taxonomy.php:138
+msgid "Copy"
+msgstr "复制"
+
+#: admin/class-sf-admin-metadata.php:115 admin/class-sf-admin-metadata.php:128
+msgid "Current file:"
+msgstr "当前文件："
+
+#: admin/class-sf-admin-settings.php:4172
+msgid "Custom color"
+msgstr "自定义颜色"
+
+#: admin/class-sf-admin-settings.php:1181
+#: admin/class-sf-admin-settings.php:1461
+#: admin/class-sf-admin-settings.php:1475
+#: admin/class-sf-admin-settings.php:1498
+#: admin/class-sf-admin-settings.php:1512
+msgid "Custom file type"
+msgstr "自定义文件类型"
+
+#: admin/class-sf-admin-help-support.php:280
+msgid "Debug Info"
+msgstr "调试信息"
+
+#: admin/class-sf-admin-settings.php:3937
+#: admin/class-sf-admin-settings.php:4194
+msgid "Default"
+msgstr "默认"
+
+#: admin/class-sf-admin-settings.php:3389
+msgid "Default list"
+msgstr "默认列表"
+
+#: admin/class-sf-admin-restrict-access.php:41
+#: admin/class-sf-admin-settings.php:3948
+msgid "Default method means opening the files using the following url format:"
+msgstr "默认方法意味着使用以下 URL 格式打开文件："
+
+#: admin/class-sf-admin-settings.php:3216
+msgid "Define extensions and icons for custom file types here. You may add the files to the media library and then copy the URL to the appropriate field below."
+msgstr "此处定义自定义文件类型的扩展名和图标。您可以将图标文件添加到媒体库，然后将 URL 复制到下面的相应字段。"
+
+#: public/class-sf-public-file-card-default.php:206
+#: public/class-sf-public-file-card-vertical.php:184
+msgid "Delete"
+msgstr "删除"
+
+#: admin/class-sf-admin-settings.php:4130
+msgid "Descending"
+msgstr "降序"
+
+#: admin/class-sf-admin-metadata.php:288 admin/class-sf-admin-settings.php:4101
+#: admin/class-sf-admin-taxonomy.php:118
+#: public/class-sf-public-file-upload.php:104
+msgid "Description"
+msgstr "描述"
+
+#: admin/class-sf-admin-shortcodes.php:514
+msgid "Don't sort by categories"
+msgstr "不按类别排序"
+
+#: admin/class-sf-admin-settings.php:1931
+#: public/class-sf-public-file-card-default.php:192
+#: public/class-sf-public-file-card-default.php:194
+#: public/class-sf-public-file-card-vertical.php:170
+#: public/class-sf-public-file-card-vertical.php:172
+msgid "Download"
+msgstr "下载"
+
+#: admin/class-sf-admin-taxonomy.php:42
+msgid "Edit Category"
+msgstr "编辑分类目录"
+
+#: admin/class-sf-admin-cpt.php:20
+msgid "Edit File"
+msgstr "编辑文件"
+
+#: admin/class-sf-admin-settings.php:3318
+msgid "Email"
+msgstr "电子邮件"
+
+#: admin/class-sf-admin-settings.php:3223
+msgid "Email settings"
+msgstr "邮件设置"
+
+#: admin/class-sf-admin-sync-files.php:119
+#: admin/class-sf-admin-sync-media-library.php:107
+msgid "Error processing file(s)."
+msgstr "处理错误。"
+
+#: admin/class-sf-admin-settings.php:682
+msgid "Featured image will be displayed next to file description."
+msgstr "特色图像将显示在文件描述旁边。"
+
+#: admin/class-sf-admin-cpt.php:18 admin/class-sf-admin-download-log.php:74
+#: admin/class-sf-admin-statistics.php:77
+#: public/class-sf-public-helpers.php:123
+msgid "File"
+msgstr "文件"
+
+#: admin/class-sf-admin-cpt.php:22
+msgid "File Management"
+msgstr "文件管理"
+
+#: admin/class-sf-admin-list.php:23
+msgid "File added"
+msgstr "文件已添加"
+
+#: admin/class-sf-admin-metadata.php:147 admin/class-sf-admin-settings.php:4074
+msgid "File date"
+msgstr "文件日期"
+
+#: admin/class-sf-admin-metadata.php:14
+msgid "File info"
+msgstr "文件信息"
+
+#: admin/class-sf-admin-settings.php:388
+msgid "File opening method"
+msgstr "文件预览路径"
+
+#: admin/class-sf-admin-settings.php:4069
+msgid "File publish date (post date)"
+msgstr "发布日期"
+
+#: admin/class-sf-admin-download-log.php:75 admin/class-sf-admin-list.php:17
+#: admin/class-sf-admin-sync-files.php:137
+#: admin/class-sf-admin-sync-media-library.php:120
+msgid "File size"
+msgstr "文件大小"
+
+#: admin/class-sf-admin-settings.php:4079
+msgid "File title"
+msgstr "文件标题"
+
+#: admin/class-sf-admin-settings.php:1272
+msgid "File type: AI"
+msgstr "文件类型：AI"
+
+#: admin/class-sf-admin-settings.php:1285
+msgid "File type: Doc"
+msgstr "文件类型：DOC"
+
+#: admin/class-sf-admin-settings.php:1298
+msgid "File type: Font"
+msgstr "文件类型：Font"
+
+#: admin/class-sf-admin-settings.php:1311
+msgid "File type: HTML"
+msgstr "文件类型：Html"
+
+#: admin/class-sf-admin-settings.php:1389
+msgid "File type: INDD"
+msgstr "文件类型： INDD"
+
+#: admin/class-sf-admin-settings.php:1246
+msgid "File type: Image"
+msgstr "文件类型：Image"
+
+#: admin/class-sf-admin-settings.php:1324
+msgid "File type: MP3"
+msgstr "文件类型： MP3"
+
+#: admin/class-sf-admin-settings.php:1428
+msgid "File type: Other files"
+msgstr "文件类型：其它类型"
+
+#: admin/class-sf-admin-settings.php:1259
+msgid "File type: PDF"
+msgstr "文件类型： PDF"
+
+#: admin/class-sf-admin-settings.php:1363
+msgid "File type: PPT(X)"
+msgstr "文件类型：PPT"
+
+#: admin/class-sf-admin-settings.php:1402
+msgid "File type: PSD"
+msgstr "文件类型： PSD"
+
+#: admin/class-sf-admin-settings.php:1415
+msgid "File type: SVG"
+msgstr "文件类型： SVG"
+
+#: admin/class-sf-admin-settings.php:1337
+msgid "File type: Video"
+msgstr "文件类型：Video"
+
+#: admin/class-sf-admin-settings.php:1350
+msgid "File type: XLSX"
+msgstr "文件类型： XLSX"
+
+#: admin/class-sf-admin-settings.php:1376
+msgid "File type: ZIP"
+msgstr "文件类型： ZIP"
+
+#: admin/class-sf-admin-sync-files.php:137
+#: admin/class-sf-admin-sync-media-library.php:120
+msgid "Filename"
+msgstr "文件名"
+
+#: admin/class-sf-admin-sync-files.php:109
+msgid "Files found on the server at"
+msgstr "在服务器上找到的文件："
+
+#: admin/class-sf-admin-shortcodes.php:252
+msgid "Front-end uploader"
+msgstr "前端上传器"
+
+#: admin/class-sf-admin-settings.php:218 admin/class-sf-admin-settings.php:3292
+msgid "General settings"
+msgstr "常规设置"
+
+#: admin/class-sf-admin-settings.php:4040
+msgid "Google"
+msgstr "Google"
+
+#: admin/class-sf-admin-help-support.php:10
+msgid "Help / Support"
+msgstr "帮助"
+
+#: shared-files.php:90 shared-files.php:128
+msgid "Hey %1$s"
+msgstr "你好 %1$s"
+
+#: admin/class-sf-admin-settings.php:1612
+msgid "Hide \"File added\"-column"
+msgstr "隐藏\"文件已添加\"-列"
+
+#: admin/class-sf-admin-settings.php:1623
+msgid "Hide \"Last access\"-column"
+msgstr "隐藏\"最后访问\"列"
+
+#: admin/class-sf-admin-settings.php:1601
+msgid "Hide \"Limit downloads\"-column"
+msgstr "隐藏\"限制下载\"列"
+
+#: admin/class-sf-admin-shortcodes.php:128
+#: admin/class-sf-admin-shortcodes.php:277
+msgid "Hide category dropdown:"
+msgstr "隐藏类别下拉列表："
+
+#: admin/class-sf-admin-settings.php:594
+msgid "Hide file date / publish date from card"
+msgstr "隐藏文件日期/发布日期"
+
+#: admin/class-sf-admin-shortcodes.php:126
+msgid "Hide file description:"
+msgstr "隐藏文件描述："
+
+#: admin/class-sf-admin-settings.php:649
+msgid "Hide file size from card"
+msgstr "隐藏文件大小"
+
+#: admin/class-sf-admin-settings.php:660
+msgid "Hide file type icon from card"
+msgstr "隐藏文件类型图标"
+
+#: admin/class-sf-admin-metadata.php:108
+msgid "Hide from other pages"
+msgstr "隐藏其他页面"
+
+#: admin/class-sf-admin-settings.php:583
+msgid "Hide preview button"
+msgstr "隐藏预览按钮"
+
+#: admin/class-sf-admin-notifications.php:58
+#: admin/class-sf-admin-settings.php:3130
+msgid "How to get started"
+msgstr "我要怎样开始？"
+
+#: admin/class-sf-admin-notifications.php:32
+msgid "I've already given a review"
+msgstr "已评价"
+
+#: admin/class-sf-admin-settings.php:207
+msgid "Icon set"
+msgstr "图标设置"
+
+#: admin/class-sf-admin-sync-files.php:49
+msgid "If a file is inactive, it means that it exists on the server, but has not yet been activated for the plugin."
+msgstr "如果文件处于非激活状态，则表示该文件存在于服务器上，但尚未在插件中使用。"
+
+#: admin/class-sf-admin-taxonomy.php:99
+msgid "If a value is entered, the categories are sorted by that."
+msgstr "如果输入了值，则类别按该值排序。"
+
+#: admin/class-sf-admin-sync-files.php:224
+#: admin/class-sf-admin-sync-media-library.php:169
+msgid "Inactive"
+msgstr "未激活"
+
+#. translators: %s: link to file management
+#: admin/class-sf-admin-settings.php:3136
+msgid "Insert files from the <a href=\"%s\" target=\"_blank\">file management</a>."
+msgstr "你可以从这里插入文件<a href=\"%s\" target=\"_blank\">文件管理</a>。"
+
+#: admin/class-sf-admin-shortcodes.php:85
+#: admin/class-sf-admin-shortcodes.php:172
+#: admin/class-sf-admin-shortcodes.php:212
+#: admin/class-sf-admin-shortcodes.php:373
+#: admin/class-sf-admin-shortcodes.php:439
+#: admin/class-sf-admin-shortcodes.php:485
+#: admin/class-sf-admin-shortcodes.php:509
+#: admin/class-sf-admin-shortcodes.php:537
+#: admin/class-sf-admin-shortcodes.php:557
+#: admin/class-sf-admin-shortcodes.php:592
+msgid "Insert the shortcode"
+msgstr "插入短代码"
+
+#: admin/class-sf-admin-notifications.php:25
+msgid "It's great to see that you've been using the %sShared Files%s plugin for a while now. Hopefully you're happy with it!&nbsp; If so, would you consider leaving a positive review? It really helps to support the plugin and helps others to discover it too!"
+msgstr "很高兴看到您已经使用一个共享文件%s插件%s了一段时间了。希望你对此满意！ 如果是，您会考虑留下正面评论吗？它真的有助于支持插件，并帮助其他人发现它了！"
+
+#: admin/class-sf-admin-list.php:26
+msgid "Last access"
+msgstr "最后访问"
+
+#: admin/class-sf-admin-sync-files.php:137
+#: admin/class-sf-admin-sync-media-library.php:120
+msgid "Last modified"
+msgstr "最后修改"
+
+#: admin/class-sf-admin-settings.php:537 admin/class-sf-admin-settings.php:3298
+msgid "Layout"
+msgstr "布局"
+
+#: admin/class-sf-admin-settings.php:3168
+msgid "Layout settings"
+msgstr "布局设置"
+
+#: admin/class-sf-admin-settings.php:4231
+msgid "Left"
+msgstr "左"
+
+#: admin/class-sf-admin-settings.php:4167
+msgid "Light gray"
+msgstr "浅灰"
+
+#: admin/class-sf-admin-list.php:20
+msgid "Limit"
+msgstr "限制"
+
+#: admin/class-sf-admin-shortcodes.php:125
+#: admin/class-sf-admin-shortcodes.php:186
+msgid "Limit the number of files (and hide pagination):"
+msgstr "限制文件数（并隐藏分页）："
+
+#: admin/class-sf-admin-shortcodes.php:547
+msgid "List categories / list files by category"
+msgstr "根据类别展示类别分类或文件"
+
+#: admin/class-sf-admin-settings.php:4045
+msgid "Microsoft"
+msgstr "Microsoft"
+
+#: admin/class-sf-admin-shortcodes.php:111
+#: admin/class-sf-admin-shortcodes.php:177
+msgid "More parameters:"
+msgstr "更多参数："
+
+#: admin/class-sf-admin-download-log.php:80
+#: admin/class-sf-admin-settings.php:3597
+#: admin/class-sf-admin-settings.php:3903 admin/class-sf-admin-taxonomy.php:117
+msgid "Name"
+msgstr "名称"
+
+#: admin/class-sf-admin-shortcodes.php:99
+#: admin/class-sf-admin-shortcodes.php:151
+#: admin/class-sf-admin-shortcodes.php:360
+#: admin/class-sf-admin-shortcodes.php:404
+#: admin/class-sf-admin-shortcodes.php:406
+#: admin/class-sf-admin-shortcodes.php:408
+#: admin/class-sf-admin-shortcodes.php:425
+#: admin/class-sf-admin-shortcodes.php:453
+#: admin/class-sf-admin-shortcodes.php:455
+#: admin/class-sf-admin-shortcodes.php:457
+#: admin/class-sf-admin-shortcodes.php:565
+#: admin/class-sf-admin-shortcodes.php:567
+msgid "New"
+msgstr "新客户"
+
+#: admin/class-sf-admin-taxonomy.php:19 admin/class-sf-admin-taxonomy.php:45
+msgid "New Type Name"
+msgstr "新类型名"
+
+#: admin/class-sf-admin-notifications.php:30
+msgid "No thanks"
+msgstr "不，谢谢"
+
+#: admin/class-sf-admin-help-support.php:282
+#: admin/class-sf-admin-inline-scripts.php:32
+msgid "Open"
+msgstr "打开"
+
+#: admin/class-sf-admin-taxonomy.php:40
+msgid "Parent Category"
+msgstr "父级分类目录"
+
+#: admin/class-sf-admin-taxonomy.php:41
+msgid "Parent Category:"
+msgstr "父级分类目录："
+
+#: admin/class-sf-admin-inline-scripts.php:24
+msgid "Please insert the file first."
+msgstr "请先插入文件。"
+
+#: admin/class-sf-admin-taxonomy.php:121
+msgid "Posts"
+msgstr "文章"
+
+#: admin/class-sf-admin-shortcodes.php:307
+msgid "Pre-define the category and hide category dropdown:"
+msgstr "预定义类别并隐藏类别下拉列表："
+
+#: includes/class-shared-files-helpers.php:284
+#: includes/class-shared-files-helpers.php:286
+#: includes/class-shared-files-helpers.php:299
+#: includes/class-shared-files-helpers.php:301
+#: includes/class-shared-files-helpers.php:327
+#: includes/class-shared-files-helpers.php:355
+msgid "Preview"
+msgstr "预览"
+
+#: admin/class-sf-admin-settings.php:224
+msgid "Preview service"
+msgstr "预览服务接口"
+
+#: admin/class-sf-admin-list.php:90 admin/class-sf-admin-list.php:119
+#: admin/class-sf-admin-list.php:127 admin/class-sf-admin-list.php:132
+#: admin/class-sf-admin-list.php:137
+msgid "Pro"
+msgstr "专业版"
+
+#: admin/class-sf-admin-settings.php:3942
+msgid "Redirect"
+msgstr "重定向"
+
+#: admin/class-sf-admin-restrict-access.php:51
+#: admin/class-sf-admin-settings.php:3952
+msgid "Redirect method means that while the file url is at first the same as it is using the default method, the user will be redirected to the actual location on server like so:"
+msgstr "重定向方法意味着，虽然文件 URL 起初与使用默认方法相同，但用户将被重定向到服务器上的实际位置，例如："
+
+#: admin/class-sf-admin-metadata.php:123 admin/class-sf-admin-metadata.php:136
+msgid "Replace with a new file"
+msgstr "替换为新文件"
+
+#: admin/class-sf-admin-settings.php:4226
+msgid "Right"
+msgstr "右"
+
+#: admin/class-sf-admin-settings.php:4199
+msgid "Roboto"
+msgstr "Roboto"
+
+#: admin/class-sf-admin-help-support.php:365
+msgid "Sample file data (5 newest files)"
+msgstr "示例文件数据（5 个最新文件）"
+
+#: admin/class-sf-admin-taxonomy.php:38
+msgid "Search Categories"
+msgstr "搜索分类目录"
+
+#: public/class-shortcode-shared_files.php:121
+#: public/class-shortcode_shared_files_simple.php:68
+msgid "Search files..."
+msgstr "搜索文件..."
+
+#: admin/class-sf-admin-shortcodes.php:496
+msgid "Search form only that targets all the files, sorted by category"
+msgstr "搜索目标并按类别排序"
+
+#: admin/class-sf-admin-settings.php:773
+msgid "See"
+msgstr "查看"
+
+#. Plugin Name of the plugin
+#: admin/class-sf-admin-notifications.php:22
+msgid "Shared Files"
+msgstr "文件共享"
+
+#: admin/class-sf-admin-settings.php:3286
+msgid "Shared Files Settings"
+msgstr "共享文件设置"
+
+#: admin/class-sf-admin-list.php:16 admin/class-sf-admin-taxonomy.php:119
+msgid "Shortcode"
+msgstr "短代码"
+
+#: admin/class-sf-admin-inline-scripts.php:38
+msgid "Shortcode copied to clipboard!"
+msgstr "短码复制到剪贴板！"
+
+#: includes/class-shared-files-helpers.php:224
+msgid "Show all files"
+msgstr "显示所有文件"
+
+#: admin/class-sf-admin-settings.php:682
+msgid "Show featured image in addition to file type icon"
+msgstr "显示文件类型图标和特色图像"
+
+#: admin/class-sf-admin-settings.php:3265
+#: admin/class-sf-admin-settings.php:3328
+#: admin/class-sf-admin-shortcodes.php:167
+msgid "Simple list"
+msgstr "简单列表"
+
+#: admin/class-sf-admin-taxonomy.php:120
+msgid "Slug"
+msgstr "别名"
+
+#: admin/class-sf-admin-settings.php:627
+msgid "Small font size on card"
+msgstr "小字体大小"
+
+#: admin/class-sf-admin-help-support.php:52
+msgid "Some examples on how you can use different views available at"
+msgstr "使用不同视图请参考："
+
+#: admin/class-sf-admin-sync-files.php:137
+#: admin/class-sf-admin-sync-media-library.php:120
+msgid "Status"
+msgstr "状态"
+
+#: public/class-sf-public-file-upload.php:111
+msgid "Submit"
+msgstr "提交"
+
+#: admin/class-sf-admin-notifications.php:28
+msgid "Sure, I'd love to!"
+msgstr "当然，我很乐意！"
+
+#: admin/class-sf-admin-sync-files.php:13
+#: admin/class-sf-admin-sync-files.php:14
+#: admin/class-sf-admin-sync-files.php:28
+msgid "Sync Files"
+msgstr "同步文件"
+
+#: admin/class-sf-admin-taxonomy.php:97
+msgid "The description field above can be used to alter the order of the categories in [shared_files_categories]-shortcode."
+msgstr "上述描述字段可用于更改 [shared_files_categories] 短代码中的类别的顺序。"
+
+#: admin/class-sf-admin-shortcodes.php:599
+msgid "The file_id parameter is unique for each file and can be found under the Shortcode column in File Management page."
+msgstr "每个file_id参数都是唯一的，可以在文件管理页的\"短代码\"列下找到。"
+
+#: admin/class-sf-admin-metadata.php:147
+msgid "This date is displayed in the file list instead of the publish date. If empty, the publish date will be displayed. Both can be hidden from the settings."
+msgstr "此日期显示在文件列表中代替发布日期，默认显示发布日期。两者都可以从设置中隐藏。"
+
+#: admin/class-sf-admin-settings.php:365
+msgid "This file is no longer available for download."
+msgstr "此文件不再可供下载。"
+
+#: admin/class-sf-admin-metadata.php:104
+msgid "This file was uploaded on a page that has been deleted since"
+msgstr "此文件上传自删除页面"
+
+#: admin/class-sf-admin-metadata.php:102
+msgid "This file was uploaded on page"
+msgstr "此文件已上传到页面上"
+
+#: admin/class-sf-admin-help-support.php:289
+msgid "This section contains some debug info, which may be useful when trying to solve abnormal behaviour of the plugin."
+msgstr "本节包含一些调试信息，在尝试解决插件的异常行为时可能很有用。"
+
+#: admin/class-sf-admin-shortcodes.php:257
+msgid "To enable the uploader insert the shortcode"
+msgstr "要启用上传器，请插入短代码"
+
+#: admin/class-sf-admin-shortcodes.php:259
+msgid "To hide other files use parameter \"only_uploaded_files\" like so:"
+msgstr "要隐藏其它文件，请使用参数\"only_uploaded_files\"，如："
+
+#: admin/class-sf-admin-settings.php:4157
+msgid "Transparent"
+msgstr "透明"
+
+#: admin/class-sf-admin-settings.php:4204
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: admin/class-sf-admin-taxonomy.php:43
+msgid "Update Category"
+msgstr "更新分类目录"
+
+#: admin/class-sf-admin-helpers.php:11 admin/class-sf-admin-helpers.php:24
+#: admin/class-sf-admin-helpers.php:37
+msgid "Upgrade here"
+msgstr "升级"
+
+#: admin/class-sf-admin-settings.php:291
+msgid "Use textarea for file description (instead of rich text editor)"
+msgstr "描述启用文本编辑器"
+
+#: admin/class-sf-admin-help-support.php:303
+msgid "Variables"
+msgstr "变量"
+
+#: admin/class-sf-admin-settings.php:4162
+msgid "White"
+msgstr "白"
+
+#: admin/class-sf-admin-settings.php:480
+msgid "WordPress location"
+msgstr "Wordpress 位置"
+
+#: admin/class-sf-admin-shortcodes.php:155
+msgid "You can also use multiple parameters:"
+msgstr "您还可以使用多个参数："
+
+#: admin/class-sf-admin-shortcodes.php:408
+#: admin/class-sf-admin-shortcodes.php:537
+#: admin/class-sf-admin-shortcodes.php:557
+msgid "You can find / define the category slug by editing the category."
+msgstr "您可以通过编辑类别来查找/定义类别标签。"
+
+#: public/class-sf-public-helpers.php:13
+msgid "You can use the shortcodes"
+msgstr "您可以使用短代码"
+
+#: admin/class-sf-admin-sync-files.php:43
+msgid "You may transfer many files at once using FTP to the folder mentioned below, and then sync the files here so they will be usable by the plugin."
+msgstr "您可以使用 FTP 一次将许多文件传输到下面提到的文件夹，然后在这里同步文件，以便插件使用它们。"
+
+#: admin/class-sf-admin-settings.php:1441
+msgid "YouTube-link (External URL)"
+msgstr "YouTube 链接（外部 URL）"
+
+#: public/class-sf-public-helpers.php:13
+msgid "and"
+msgstr "和"
+
+#: public/class-shortcode_shared_files_simple.php:14
+msgid "contact"
+msgstr "联系"
+
+#: public/class-shortcode_shared_files_simple.php:15
+msgid "contacts"
+msgstr "联系我们"
+
+#: admin/class-sf-admin-settings.php:1461
+#: admin/class-sf-admin-settings.php:1498
+msgid "extension"
+msgstr "扩展名"
+
+#: admin/class-sf-admin-sync-files.php:124
+#: admin/class-sf-admin-sync-media-library.php:112
+msgid "file activated."
+msgstr "文件已激活。"
+
+#: admin/class-sf-admin-sync-files.php:126
+#: admin/class-sf-admin-sync-media-library.php:114
+msgid "files activated."
+msgstr "文件已激活。"
+
+#: public/class-shortcode_shared_files_simple.php:16
+msgid "found"
+msgstr "找到"
+
+#: admin/class-sf-admin-settings.php:1475
+#: admin/class-sf-admin-settings.php:1512
+msgid "icon file"
+msgstr "图标文件"
+
+#: shared-files.php:90
+msgid "never miss an important update -- opt-in to our security and feature updates notifications, and non-sensitive diagnostic tracking with freemius.com."
+msgstr "永远不要错过重要的更新 - 选择加入我们的安全和功能更新通知， 以及非敏感的诊断跟踪与freemius.com。"
+
+#: admin/class-sf-admin-shortcodes.php:557
+msgid "or"
+msgstr "或"
+
+#: admin/class-sf-admin-help-support.php:54
+msgid "sharedfilespro.com"
+msgstr "sharedfilespro.com"
+
+#: admin/class-sf-admin-shortcodes.php:172
+#: admin/class-sf-admin-shortcodes.php:212
+msgid "to the content editor of any page you wish the file list to appear."
+msgstr "前往内容编辑器可以将文件展示在任何页面。"
+
+#: admin/class-sf-admin-shortcodes.php:85
+msgid "to the content editor of any page you wish the file list to appear. If there are more than one category, a dropdown of categories will appear above the file list."
+msgstr "要显示文件列表的任何页面的内容编辑器。如果有多个类别，则类别下拉列表将显示在文件列表的上方。"
+
+#: admin/class-sf-admin-shortcodes.php:80
+msgid "Default file list"
+msgstr "默认文件列表"
+
+#: admin/class-sf-admin-help-support.php:9
+#: admin/class-sf-admin-help-support.php:46
+msgid "How to use Shared Files"
+msgstr "如何使用文件共享"
+
+#: admin/class-sf-admin-shortcodes.php:580
+msgid "List a single file"
+msgstr "列出单个文件"
+
+#: admin/class-sf-admin-shortcodes.php:524
+msgid "List only files in certain category"
+msgstr "仅列出特定类别的文件"
+
+#: admin/class-sf-admin-cpt.php:21 public/class-sf-public-ajax.php:107
+#: public/class-shortcode-shared_files.php:362
+#: public/class-shortcode-shared_files.php:400
+#: public/class-shortcode_shared_files_simple.php:73
+#: public/class-shortcode_shared_files_simple.php:95
+msgid "No files found."
+msgstr "找不到文件"
+
+#: admin/class-sf-admin-shortcodes.php:347
+msgid "See live demo at"
+msgstr "查看演示"
+
+#: public/class-shortcode-shared_files.php:309
+#: public/class-shortcode_shared_files_simple.php:71
+msgid "file found."
+msgstr "个文件"
+
+#: public/class-shortcode-shared_files.php:309
+#: public/class-shortcode_shared_files_simple.php:71
+msgid "files found."
+msgstr "个文件"
+
+#: shared-files.php:128
+msgid "Please help us improve %2$s! If you opt-in, some data about your usage of %2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still work just fine."
+msgstr "请帮助我们改进 %2$s!  如果您选择加入，则有关您使用 %2$s 某些数据将被发送到 %5$s。 如果跳过 %2$s 仍然可以正常工作。"
