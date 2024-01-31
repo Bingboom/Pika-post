@@ -98,9 +98,14 @@ function pk_comment_ajax()
     if ($user && $user->ID) {
         $user_ID = $user->ID;
         if (empty($user->display_name)) $user->display_name = $user->user_login;
-        $comment_author = $wpdb->prepare($user->display_name);
-        $comment_author_email = $wpdb->prepare($user->user_email);
-        $comment_author_url = $wpdb->prepare($user->user_url);
+        $comment_author = esc_sql($user->display_name);
+        $comment_author_email = esc_sql($user->user_email);
+        $comment_author_url = esc_sql($user->user_url);
+        if (isset($_POST['_wp_unfiltered_html_comment'])) {
+            $unfiltered_html_comment = $_POST['_wp_unfiltered_html_comment'];
+        } else {
+            $unfiltered_html_comment = ''; // 或其他你希望的默认值
+        }        
         if (current_user_can('unfiltered_html')) {
             if (isset($_POST['_wp_unfiltered_html_comment'])) {
                 $unfiltered_html_comment = $_POST['_wp_unfiltered_html_comment'];
