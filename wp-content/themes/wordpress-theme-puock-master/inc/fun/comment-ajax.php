@@ -101,18 +101,23 @@ function pk_comment_ajax()
         $comment_author = esc_sql($user->display_name);
         $comment_author_email = esc_sql($user->user_email);
         $comment_author_url = esc_sql($user->user_url);
-        if (isset($_POST['_wp_unfiltered_html_comment'])) {
-            $unfiltered_html_comment = $_POST['_wp_unfiltered_html_comment'];
+        if (isset($unfiltered_html_comment)) {
+            $unfiltered_html_comment = $unfiltered_html_comment;
         } else {
             $unfiltered_html_comment = ''; // 或其他你希望的默认值
         }        
         if (current_user_can('unfiltered_html')) {
-            if (isset($_POST['_wp_unfiltered_html_comment'])) {
-                $unfiltered_html_comment = $_POST['_wp_unfiltered_html_comment'];
+            if (isset($unfiltered_html_comment)) {
+                $unfiltered_html_comment = $unfiltered_html_comment;
             } else {
                 $unfiltered_html_comment = ''; // Or other default value
-            }           
-            if (wp_create_nonce('unfiltered-html-comment_' . $comment_post_ID) != $_POST['_wp_unfiltered_html_comment']) {
+            }
+            if (isset($unfiltered_html_comment)) {
+                $unfiltered_html_comment = $unfiltered_html_comment;
+            } else {
+                $unfiltered_html_comment = ''; // 或其他你希望的默认值
+            }                       
+            if (wp_create_nonce('unfiltered-html-comment_' . $comment_post_ID) != $unfiltered_html_comment) {
                 kses_remove_filters();
                 kses_init_filters();
             }
